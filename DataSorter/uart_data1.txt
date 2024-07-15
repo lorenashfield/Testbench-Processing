@@ -1,0 +1,3684 @@
+9000, 524288
+IN: [bit 29, reg R9]
+OK: # 69200, 524288
+OK: # 69400, 524288
+OK: # 69600, 524288
+OK: # 69800, 524288
+OK: # 70000, 524288
+OK: # 70200, 524288
+OK: # 70400, 524288
+OK: # 70600, 524288
+OK: # 70800, 524288
+OK: # 71000, 524288
+OK: # 71200, 524288
+OK: # 71400, 524288
+OK: # 71600, 524288
+OK: # 71800, 524288
+IN: [bit 23, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 5, reg R12]
+OK: # 200, 0
+IN: [bit 13, reg R1]
+IN: [bit 25, reg R14]
+OK: # 400, 0
+OK: # 600, 0
+OK: # 800, 0
+OK: # 1000, 0
+OK: # 1200, 0
+OK: # 1400, 0
+OK: # 1600, 0
+OK: # 1800, 0
+OK: # 2000, 0
+OK: # 2200, 0
+OK: # 2400, 0
+IN: [bit 26, reg R12]
+IN: [bit 12, reg R14]
+OK: # 2600, 0
+OK: # 2800, 0
+IN: [bit 1, reg R13]
+OK: # 3000, 0
+OK: # 3200, 0
+OK: # 3400, 0
+OK: # 3600, 0
+OK: # 3800, 0
+IN: [bit 13, reg R0]
+O
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 28, reg R1]
+IN: [bit 25, reg R0]
+OK: # 2000, 0
+IN: [bit 15, reg R5]
+IN: [bit 4, reg R10]
+OK: # 3000, 0
+IN: [bit 26, reg R67108866]
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 11, reg R13]
+OK: # 6000, 0
+IN: [bit 14, reg R13]
+OK: # 7000, 0
+IN: [bit 19, reg R5]
+IN: [bit 14, reg R11]
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 21, reg R9]
+OK: # 10000, 0
+IN: [bit 25, reg R14]
+OK: # 11000, 0
+IN: [bit 11, reg R7]
+OK: # 12000, 0
+IN: [bit 26, reg R7]
+OK: # 13000, 0
+IN: [bit 13, reg R0]
+OK: # 14000, 0
+IN: [bit 27, reg R15]
+OK: # 15000, 0
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 14, reg R11]
+IN: [bit 27, reg R14]
+OK: # 18000, 0
+OK: # 19000, 0
+IN: [bit 17, reg R10]
+DE: [i: 19901]   E: {8_10: [d1332800, 0],8_11: [f4306d60, 0],9_0: [f0505088, 0],9_1: [65600002, 0],9_2: [68806820, 0],9_3: [4080f030, 0],9_4: [68224330, 0],9_5: [68206090, 0],9_6: [f4306880, 0],9_7: [43283080, 0],9_8: [60906822, 0],9_9: [68806820, 0],9_10: [4000f050, 0],9_11: [60906822, 0],10_0: [68806820, 0],10_1: [d50e2800, 0],10_2: [f5b71c7f, 0],10_3: [d3f74f7a, 0],10_4: [f0306d60, 0],10_5: [f0500002, 0],10_6: [65600010, 0],10_7: [f8842000, 0],10_8: [20010050, 0],10_9: [6d60e00f, 0],10_10: [2f030, 0],10_11: [1f050, 0],11_0: [e0036560, 0],11_1: [f0506d60, 0],11_2: [65600010, 0],11_3: [f8842000, 0],11_4: [80050, 0],11_5: [bdf2b2c0, 0],11_6: [bf482800, 0],11_7: [47704240, 0],11_8: [4b570, 0],11_9: [16000d, 0],11_10: [d1012c00, 0],11_11: [e0132002, 0],}
+OK: # 20000, 38
+IN: [bit 21, reg R3]
+OK: # 21000, 38
+OK: # 22000, 38
+IN: [bit 9, reg R10]
+OK: # 23000, 38
+IN: [bit 8, reg R10]
+DE: [i: 23744]   E: {6_8: [7ffff828, 0],6_9: [1, 0],6_10: [8002ab5, 0],6_11: [8000c79, 0],7_0: [8000c51, 0],7_1: [24000008, 0],7_4: [24000ca0, 0],7_5: [24000d08, 0],7_6: [24000d70, 0],10_5: [1, 0],10_7: [abcd330e, 0],10_8: [e66d1234, 0],10_9: [5deec, 0],10_10: [b, 0],}
+IN: [bit 27, reg R13]
+OK: # 24000, 52
+OK: # 25000, 52
+IN: [bit 1, reg R11]
+IN: [bit 7, reg R8]
+OK: # 26000, 180
+OK: # 27000, 180
+IN: [bit 70, reg R4]
+OK: # 28000, 180
+IN: [bit 0, reg R3]
+IN: [bit 4, reg R11]
+IN: [bit 26, reg R5]
+OK: # 29000, 180
+IN: [bit 26, reg R8]
+OK: # 30000, 180
+OK: # 31000, 180
+IN: [bit 29, reg R13]
+OK: # 32000, 180
+IN: [bit 24, reg R9]
+OK: # 33000, 180
+IN: [bit 20, reg R15]
+IN: [bit 7, reg R6]
+IN: [bit 31, reg R11]
+OK: # 34000, 180
+IN: [bit 20, reg R9]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 5, reg R10]
+OK: # 2000, 0
+IN: [bit 7, reg R10]
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 6, reg R15]
+IN: [bit 15, reg R13]
+IN: [bit 12, reg R10]
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 14, reg R3]
+OK: # 7000, 0
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 6, reg R66]
+OK: # 10000, 0
+IN: [bit 16, reg R1]
+OK: # 11000, 0
+IN: [bit -2147483617, reg R4]
+OK: # 12000, 0
+IN: [bit 1034, reg R4]
+OK: # 13000, 0
+IN: [bit 10, reg R7]
+}
+IN: [bit 27, reg R14]
+OK: # 14000, 0
+IN: [bit 13, reg R13]
+OK: # 15000, 0
+IN: [bit 16, reg R11]
+IN: [bit 5, reg R7]
+IN: [bit 19, reg R12]
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 7, reg R12]
+IN: [bit 13, reg R9]
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+OK: # 21000, 0
+OK: # 22000, 0
+OK: # 23000, 0
+IN: [bit 28, reg R5]
+OK: # 24000, 0
+OK: # 25000, 0
+IN: [bit 6, reg R66]
+OK: # 26000, 0
+IN: [bit 20, reg R11]
+IN: [bit 9, reg R12]
+OK: # 27000, 0
+OK: # 28000, 0
+IN: [bit 7, reg R7]
+OK: # 29000, 0
+OK: # 30000, 0
+OK: # 31000, 0
+IN: [bit 20, reg R15]
+IN: [bit 17, reg R11]
+IN: [bit 4, reg R7]
+OK: # 32000, 0
+IN: [bit 1, reg R8]
+OK: # 33000, 0
+IN: [bit 1, reg R14]
+OK: # 34000, 0
+OK: # 35000, 0
+IN: [bit 21, reg R3]
+OK: # 36000, 0
+OK: # 37000, 0
+IN: [bit 14, reg R13]
+IN: [bit 23, reg R3]
+OK: # 38000, 0
+OK: # 39000, 0
+IN: [bit 21, reg R5]
+OK: # 40000, 0
+OK: # 41000, 0
+OK: # 42000, 0
+IN: [bit 2, reg R6]
+OK: # 43000, 0
+IN: [bit 7, reg R3]
+IN: [bit 20, reg R4]
+OK: # 44000, 0
+OK: # 45000, 0
+IN: [bit 22, reg R5]
+OK: # 46000, 0
+OK: # 47000, 0
+OK: # 48000, 0
+OK: # 49000, 0
+OK: # 50000, 0
+OK: # 51000, 0
+OK: # 52000, 0
+OK: # 53000, 0
+IN: [bit 3, reg R10]
+OK: # 54000, 0
+OK: # 55000, 0
+OK: # 56000, 0
+OK: # 57000, 0
+IN: [bit 2, reg R9]
+OK: # 58000, 0
+OK: # 59000, 0
+OK: # 60000, 0
+OK: # 61000, 0
+IN: [bit 15, reg R8]
+OK: # 62000, 0
+OK: # 63000, 0
+IN: [bit 19, reg R0]
+OK: # 64000, 0
+IN: [bit 1, reg R5]
+IN: [bit 28, reg R14]
+OK: # 65000, 0
+OK: # 66000, 0
+OK: # 67000, 0
+OK: # 68000, 0
+IN: [bit 3, reg R1]
+IN: [bit 22, reg R5]
+OK: # 69000, 0
+IN: [bit 19, reg R11]
+OK: # 70000, 0
+IN: [bit 19, reg R3]
+OK: # 71000, 0
+IN: [bit 12, reg R9]
+IN: [bit 27, reg R134217730]
+OK: # 72000, 0
+OK: # 73000, 0
+OK: # 74000, 0
+OK: # 75000, 0
+IN: [bit 26, reg R12]
+OK: # 76000, 0
+IN: [bit 26, reg R15]
+OK: # 77000, 0
+OK: # 78000, 0
+IN: [bit 24, reg R15]
+IN: [bit 5, reg R9]
+OK: # 79000, 0
+IN: [bit 10, reg R5]
+IN: [bit 25, reg R33554434]
+OK: # 80000, 0
+OK: # 81000, 0
+OK: # 82000, 0
+IN: [bit 25, reg R15]
+IN: [bit 17, reg R12]
+OK: # 83000, 0
+IN: [bit 15, reg R3]
+IN: [bit 27, reg R15]
+IN: [bit -2147483617, reg R4]
+IN: [bit 9, reg R5]
+OK: # 84000, 0
+IN: [bit 19, reg R0]
+IN: [bit 16, reg R8]
+IN: [bit 4108, reg R4]
+OK: # 85000, 0
+IN: [bit 19, reg R0]
+OK: # 86000, 0
+IN: [bit 0, reg R0]
+OK: # 87000, 0
+OK: # 88000, 0
+IN: [bit 6, reg R4]
+OK: # 89000,
+0
+OK: # 90000, 0
+IN: [bit 0, reg R8]
+OK: # 91000, 0
+OK: # 92000, 0
+OK: # 93000, 0
+IN: [bit 8, reg R13]
+IN: [bit 7, reg R10]
+OK: # 94000, 0
+IN: [bit 28, reg R12]
+IN: [bit 2, reg R6]
+OK: # 95000, 0
+IN: [bit 9, reg R1]
+OK: # 96000, 0
+IN: [bit 27, reg R13]
+IN: [bit 1, reg R0]
+IN: [bit 31, reg R7]
+OK: # 97000, 0
+IN: [bit 1, reg R11]
+OK: # 98000, 0
+OK: # 99000, 0
+OK: # 100000, 0
+OK: # 101000, 0
+OK: # 102000, 0
+IN: [bit 13, reg R3]
+OK: # 103000, 0
+IN: [bit 1073741854, reg R4]
+OK: # 104000, 0
+OK: # 105000, 0
+IN: [bit 3, reg R0]
+OK: # 106000, 0
+OK: # 107000, 0
+OK: # 108000, 0
+OK: # 109000, 0
+IN: [bit 20, reg R13]
+OK: # 110000, 0
+OK: # 111000, 0
+IN: [bit 22, reg R3]
+OK: # 112000, 0
+IN: [bit 67108890, reg R4]
+OK: # 113000, 0
+IN: [bit 5, reg R15]
+OK: # 114000, 0
+IN: [bit 5, reg R9]
+OK: # 115000, 0
+IN: [bit 6, reg R4]
+OK: # 116000, 0
+IN: [bit 1, reg R4]
+IN: [bit 17, reg R13]
+OK: # 117000, 0
+OK: # 118000, 0
+IN: [bit 3, reg R0]
+OK: # 119000, 0
+IN: [bit 6, reg R8]
+OK: # 120000, 0
+IN: [bit 15, reg R12]
+IN: [bit 8, reg R258]
+IN: [bit 2, reg R12]
+OK: # 121000, 0
+IN: [bit 21, reg R8]
+IN: [bit 6, reg R15]
+OK: # 122000, 0
+IN: [bit 27, reg R0]
+IN: [bit 28, reg R7]
+IN: [bit 28, reg R14]
+OK: # 123000, 0
+OK: # 124000, 0
+IN: [bit 134217755, reg R4]
+IN: [bit 26, reg R7]
+OK: # 125000, 0
+OK: # 126000, 0
+IN: [bit 3, reg R9]
+OK: # 127000, 0
+IN: [bit 18, reg R3]
+OK: # 128000, 0
+OK: # 129000, 0
+IN: [bit 31, reg R1]
+OK: # 130000, 0
+IN: [bit 3, reg R12]
+OK: # 131000, 0
+IN: [bit 14, reg R13]
+OK: # 132000, 0
+OK: # 133000, 0
+IN: [bit 10, reg R3]
+IN: [bit 15, reg R32770]
+OK: # 134000, 0
+OK: # 135000, 0
+IN: [bit 16, reg R1]
+IN: [bit 6, reg R11]
+OK: # 136000, 0
+IN: [bit 13, reg R14]
+OK: # 137000, 0
+OK: # 138000, 0
+OK: # 139000, 0
+IN: [bit 6, reg R9]
+IN: [bit 10, reg R11]
+OK: # 140000, 0
+OK: # 141000, 0
+IN: [bit 26, reg R14]
+IN: [bit 17, reg R11]
+DE: [i: 141995]   E: {3_7: [0, 16188838],}
+OK: # 142000, 1
+OK: # 143000, 1
+IN: [bit 17, reg R13]
+IN: [bit 17, reg R5]
+OK: # 144000, 1
+IN: [bit 18, reg R9]
+OK: # 145000, 1
+IN: [bit 21, reg R11]
+IN: [bit 21, reg R9]
+OK: # 146000, 1
+OK: # 147000, 1
+IN: [bit 14, reg R8]
+OK: # 148000, 1
+OK: # 149000, 1
+OK: # 150000, 1
+OK: # 151000, 1
+OK: # 152000, 1
+OK: # 153000, 1
+OK: # 154000, 1
+IN: [bit 29, reg R12]
+OK: # 155000, 1
+IN: [bit 17, reg R3]
+IN: [bit 13, reg R15]
+OK: # 156000, 1
+IN: [bit 29, reg R11]
+IN: [bit 26, reg R7]
+OK: # 157000, 1
+OK: # 158000, 1
+OK: # 159000, 1
+OK: # 160000, 1
+IN: [bit 29, reg R10]
+OK: # 161000, 1
+IN: [bit 31, reg R14]
+OK: # 162000, 1
+IN: [bit 14, reg R15]
+OK: # 163000, 1
+OK: # 164000, 1
+IN: [bit 25, reg R7]
+IN: [bit 15, reg R8]
+OK: # 165000, 1
+OK: # 166000, 1
+IN: [bit 25, reg R8]
+OK: # 167000, 33554433
+IN: [bit 16, reg R8]
+IN: [bit 23, reg R12]
+OK: # 168000, 33554433
+IN: [bit 30, reg R12]
+OK: # 169000, 33554433
+OK: # 170000, 33554433
+OK: # 171000, 33554433
+IN: [bit 4, reg R9]
+OK: # 172000, 33554433
+OK: # 173000, 33554433
+IN: [bit 11, reg R9]
+DE: [i: 173121]   E: {9_9: [0, 5a907957],9_10: [0, 30804333],9_11: [0, e5371130],10_0: [0, 50b33ef4],10_1: [0, a7dfd77],10_2: [0, 29902661],10_3: [0, 51e22f82],10_4: [0, f0bf5bbd],10_5: [0, 29f7debf],10_6: [0, 54699eae],10_7: [0, 5bc7e22e],10_8: [0, 78f73bdb],10_9: [0, a9ee3d29],10_10: [0, 229080f6],10_11: [0, cf55a706],11_0: [0, efb2aa30],11_1: [0, 9b0b55],11_2: [0, 60336c97],11_3: [0, fdf09535],11_4: [0, ba7fb621],11_5: [0, 7459c3d7],11_6: [0, f5865526],11_7: [0, 5bc4abe1],11_8: [0, 66194bda],11_9: [0, eda3a41b],11_10: [0, c1e8b8ea],11_11: [0, 8220874e],}
+OK: # 174000, 33554460
+OK: # 175000, 33554460
+IN: [bit 16, reg R65538]
+IN: [bit 30, reg R10]
+OK: # 176000, 33554460
+OK: # 177000, 33554460
+OK: # 178000, 33554460
+OK: # 179000, 33554460
+IN: [bit 24, reg R10]
+OK: # 180000, 33554460
+IN: [bit 28, reg R7]
+OK: # 181000, 33554460
+OK: # 182000, 33554460
+IN: [bit 18, reg R
+14]
+IN: [bit 27, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 8, reg R3]
+OK: # 1000, 0
+IN: [bit 8205, reg R4]
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 23, reg R5]
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 0, reg R8]
+OK: # 7000, 0
+IN: [bit 20, reg R0]
+OK: # 8000, 0
+IN: [bit 21, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 20, reg R5]
+OK: # 1000, 0
+OK: # 2000, 0
+IN: [bit 10, reg R10]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 13, reg R5]
+OK: # 8000, 0
+IN: [bit 7, reg R6]
+OK: # 0, 0
+OK: # 1000, 0
+OK: # 2000, 0
+IN: [bit 15, reg R32770]
+OIN: [bit 22, reg R10]
+K: # 3000, 0
+OK: # 4000, 0
+IN: [bit 16777240, reg R4]
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 28, reg R8]
+OK: # 7000, 0
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 7, reg R10]
+OK: # 10000, 0
+OK: # 11000, 0
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+OK: # 16000, 0
+IN: [bit 27, reg R9]
+IN: [bit 7, reg R0]
+OK: # 17000, 0
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+OK: # 21000, 0
+OK: # 22000, 0
+IN: [bit 2, reg R13]
+OK: # 23000, 0
+OK: # 24000, 0
+IN: [bit 3, reg R11]
+OK: # 25000, 0
+IN: [bit 18, reg R5]
+OK: # 26000, 0
+OK: # 27000, 0
+OK: # 28000, 0
+IN: [bit 67108890, reg R4]
+OK: # 29000, 0
+IN: [bit 5, reg R9]
+OK: # 30000, 0
+OK: # 31000, 0
+IN: [bit 12, reg R9]
+OK: # 32000, 0
+IN: [bit 8, reg R3]
+OK: # 33000, 0
+OK: # 34000, 0
+OK: # 35000, 0
+IN: [bit 2, reg R10]
+OK: # 36000, 0
+IN: [bit 8, reg R5]
+OK: # 37000, 0
+OK: # 38000, 0
+IN: [bit 29, reg R8]
+IN: [bit 14, reg R16386]
+OK: # 39000, 0
+IN: [bit 22, reg R5]
+OK: # 40000, 0
+OK: # 41000, 0
+OK: # 42000, 0
+OK: # 43000, 0
+IN: [bit 17, reg R14]
+IN: [bit 9, reg R1]
+OK: # 44000, 0
+IN: [bit 3, reg R8]
+IN: [bit 22, reg R7]
+IN: [bit 20, reg R11]
+IN: [bit 22, reg R1]
+OK: # 45000, 0
+OK: # 46000, 0
+IN: [bit 0, reg R5]
+OK: # 47000, 0
+OK: # 48000, 0
+OK: # 49000, 0
+OK: # 50000, 0
+IN: [bit 4, reg R7]
+IN: [bit 28, reg R268435458]
+OK: # 51000, 0
+IN: [bit 17, reg R0]
+OK: # 52000, 0
+IN: [bit 4, reg R3]
+IN: [bit 27, reg R8]
+OK: # 53000, 0
+IN: [bit 0, reg R14]
+OK: # 54000, 0
+IN: [bit 2, reg R13]
+IN: [bit 18, reg R0]
+OK: # 55000, 0
+IN: [bit 20, reg R15]
+IN: [bit 0, reg R1]
+OK: # 56000, 0
+IN: [bit 11, reg R12]
+OK: # 57000, 0
+IN: [bit 8, reg R0]
+OK: # 58000, 0
+OK: # 59000, 0
+OK: # 60000, 0
+OK: # 61000, 0
+OK: # 62000, 0
+OK: # 63000, 0
+OK: # 64000, 0
+OK: # 65000, 0
+IN: [bit 9, reg R6]
+OK: # 66000, 0
+IN: [bit 16, reg R6]
+OK: # 67000, 0
+IN: [bit 8, reg R3]
+OK: # 68000, 0
+IN: [bit 11, reg R10]
+IN: [bit 10, reg R6]
+OK: # 69000, 0
+OK: # 70000, 0
+OK: # 71000, 0
+IN: [bit 26, reg R9]
+OK: # 72000, 0
+OK: # 73000, 0
+IN: [bit 19, reg R5]
+OK: # 74000, 0
+IN: [bit 6, reg R10]
+OK: # 75000, 0
+OK: # 76000, 0
+OK: # 77000, 0
+IN: [bit 5, reg R5]
+OK: # 78000, 0
+IN: [bit 2, reg R5]
+IN: [bit 9, reg R5]
+IN: [bit 7, reg R13]
+OK: # 79000, 0
+OK: # 80000, 0
+OK: # 81000, 0
+OK: # 82000, 0
+IN: [bit 18, reg R5]
+IN: [bit 13, reg R1]
+OK: # 83000, 0
+OK: # 84000, 0
+OK: # 85000, 0
+OK: # 86000, 0
+IN: [bit 30, reg R10]
+OK: # 87000, 0
+OK: # 88000, 0
+OK: # 89000, 0
+OK: # 90000, 0
+OK: # 91000, 0
+OK: # 92000, 0
+OK: # 93000, 0
+IN: [bit 10, reg R13]
+IN: [bit 28, reg R14]
+OK: # 94000, 0
+OK: # 95000, 0
+OK: # 96000, 0
+IN: [bit 29, reg R8]
+OK: # 97000, 0
+IN: [bit 17, reg R13]
+IN: [bit 27, reg R7]
+OK: # 98000, 0
+IN: [bit 24, reg R16777218]
+IN: [bit 0, reg R5]
+OK: # 99000, 0
+IN: [bit 8, reg R7]
+OK: # 100000, 0
+IN: [bit 264, reg R4]
+OK: # 101000, 0
+IN: [bit 14, reg R0]
+OK: # 102000, 0
+OK: # 103000, 0
+OK: # 104000, 0
+IN: [bit 2, reg R9]
+OK: # 105000, 0
+IN: [bit 4, reg R7]
+IN: [bit 2, reg R1]
+OK: # 106000, 0
+IN: [bit 10, reg R11]
+OK: # 107000, 0
+IN: [bit 19, reg R15]
+OK: # 108000, 0
+OK: # 109000, 0
+IN: [bit 7, reg R3]
+IN: [bit 7, reg R11]
+OK: # 110000, 0
+OK: # 111000, 0
+OK: # 112000, 0
+IN: [bit 19, reg R1]
+OK: # 113000, 0
+IN: [bit 20, reg R8]
+OK: # 114000, 0
+OK: # 115000, 0
+OK: # 116000, 0
+IN: [bit 13, reg R0]
+OK: # 117000, 0
+OK: # 118000, 0
+IN: [bit 30, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 20, reg R10]
+IN: [bit 28, reg R0]
+OK: # 1000, 0
+OK: # 2000, 0
+IN: [bit 12, reg R15]
+IN: [bit 17, reg R131074]
+IN: [bit 24, reg R14]
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 18, reg R6]
+OK: # 5000, 0
+IN: [bit 14, reg R8]
+IN: [bit 12, reg R3]
+OK: # 6000, 0
+IN: [bit 5, reg R5]
+OK: # 7000, 0
+IN: [bit 22, reg R9]
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 5, reg R9]
+IN: [bit 3, reg R4]
+OK: # 10000, 0
+IN: [bit 5, reg R6]
+IN: [bit 7, reg R15]
+IN: [bit 22, reg R13]
+OK: # 11000, 0
+IN: [bit 6, reg R12]
+OK: # 12000, 0
+IN: [bit 8205, reg R4]
+OK: # 13000, 0
+IN: [bit 27, reg R13]
+IN: [bit 30, reg R8]
+OK: # 14000, 1073741824
+IN: [bit 19, reg R3]
+OK: # 15000, 1073741824
+IN: [bit 3, reg R13]
+IN: [bit 5, reg R15]
+OK: # 16000, 1073741824
+IN: [bit 1, reg R0]
+IN: [bit 15, reg R10]
+OK: # 17000, 1073741824
+OK: # 18000, 1073741824
+OK: # 19000, 1073741824
+OK: # 20000, 1073741824
+OK: # 21000, 1073741824
+IN: [bit 8, reg R6]
+DE: [i: 21681]   E: {7_6: [24000d70, 0],}
+OK: # 22000, 1073741825
+OK: # 23000, 1073741825
+OK: # 24000, 1073741825
+IN: [bit 7, reg R3]
+OK: # 25000, 1073741825
+IN: [bit 1, reg R9]
+OK: # 26000, 1073741825
+OK: # 27000, 1073741825
+OK: # 28000, 1073741825
+OK: # 29000, 1073741825
+OK: # 30000, 1073741825
+IN: [bit 14, reg R3]
+IN: [bit 17, reg R12]
+OK: # 31000, 1073741825
+IN: [bit 22, reg R1]
+IN: [bit 14, reg R11]
+IN: [bit 15, reg R3]
+OK: # 32000, 1073741825
+IN: [bit 10, reg R14]
+OK: # 33000, 1073741825
+OK: # 34000, 1073741825
+IN: [bit 23, reg R14]
+IN: [bit 521, reg R4]
+OK: # 35000, 1073741825
+IN: [bit 21, reg R10]
+OK: # 36000, 1073741825
+IN: [bit 31, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 21, reg R5]
+IN: [bit 524307, reg R4]
+OK: # 1000, 0
+IN: [bit 0, reg R13]
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 30, reg R13]
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 29, reg R10]
+OK: # 8000, 0
+OK: # 9000, 0
+OK: # 10000, 0
+IN: [bit 0, reg R7]
+OK: # 11000, 0
+IN: [bit 18, reg R12]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+IN: [bit 27, reg R0]
+IN: [
+IN: [bit 31, reg R8]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 536870941, reg R4]
+IN: [bit 6, reg R1]
+OK: # 15000, 0
+OK: # 16000, 0
+OK: # 17000, 0
+OK: # 18000, 0
+OK: # 19000, 0
+IN: [bit 8388631, reg R4]
+OK: # 20000, IN: [bit 28, reg R13]
+0
+IN: [bit 15, reg R9]
+OK: # 21000, 0
+IN: [bit 7, reg R14]
+OK: # 22000, 0
+OK: # 23000, 0
+IN: [bit 10, reg R7]
+IN: [bit 31, reg R0]
+OK: # 24000, 0
+OK: # 25000, 0
+IN: [bit 19, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 2059, reg R4]
+OK: # 2000, 0
+IN: [bit 14, reg R16386]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 25, reg R15]
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 19, reg R11]
+OK: # 8000, 0
+IN: [bit 12, reg R4098]
+IN: [bit 18, reg R11]
+IN: [bit 19, reg R0]
+OK: # 9000, 0
+OK: # 10000, 0
+IN: [bit 4, reg R15]
+OK: # 11000, 0
+OK: # 12000, 0
+OK: # 13000, 0
+IN: [bit 17, reg R1]
+OK: # 14000, 0
+IN: [bit 17, reg R11]
+OK: # 15000, 0
+IN: [bit 7, reg R7]
+IN: [bit 21, reg R9]
+OK: # 16000, 0
+IN: [bit 12, reg R8]
+OK: # 17000, 0
+IN: [bit 10, reg R14]
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+OK: # 21000, 0
+OK: # 22000, 0
+IN: [bit 18, reg R6]
+IN: [bit 28, reg R13]
+OK: # 23000, 0
+IN: [bit 5, reg R34]
+OK: # 24000, 0
+IN: [bit 24, reg R7]
+OK: # 25000, 0
+OK: # 26000, 0
+IN: [bit 65552, reg R4]
+OK: # 27000, 0
+OK: # 28000, 0
+OK: # 29000, 0
+OK: # 30000, 0
+IN: [bit 31, reg R8]
+OK: # 31000, 0
+OK: # 32000, 0
+OK: # 33000, 0
+OK: # 34000, 0
+OK: # 35000, 0
+OK: # 36000, 0
+IN: [bit 17, reg R7]
+OK: # 37000, 0
+OK: # 38000, 0
+IN: [bit 22, reg R9]
+IN: [bit 12, reg R12]
+OK: # 39000, 0
+OK: # 40000, 0
+IN: [bit 11, reg R15]
+OK: # 41000, 0
+IN: [bit 4, reg R13]
+OK: # 42000, 0
+OK: # 43000, 0
+OK: # 44000, 0
+OK: # 45000, 0
+IN: [bit 18, reg R9]
+OK: # 46000, 0
+IN: [bit 6, reg R14]
+OK: # 47000, 0
+IN: [bit 4, reg R6]
+OK: # 48000, 0
+OK: # 49000, 0
+IN: [bit 3, reg R5]
+OK: # 50000, 0
+IN: [bit 28, reg R3]
+IN: [bit 16, reg R13]
+OK: # 51000, 0
+IN: [bit 20, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 17, reg R8]
+IN: [bit 25, reg R11]
+OK: # 1000, 131072
+OK: # 2000, 131072
+IN: [bit 0, reg R12]
+IN: [bit 25, reg R5]
+OK: # 3000, 131072
+OK: # 4000, 131072
+IN: [bit 16, reg R10]
+OK: # 5000, 131072
+OK: # 6000, 131072
+IN: [bit 27, reg R1]
+IN: [bit 15, reg R14]
+IN: [bit 25, reg R1]
+OK: # 7000, 131072
+IN: [bit 33554457, reg R4]
+IN: [bit 5, reg R6]
+OK: # 8000, 131072
+IN: [bit 23, reg R0]
+OK: # 9000, 131072
+IN: [bit 14, reg R15]
+OK: # 10000, 131072
+IN: [bit 2, reg R7]
+IN: [bit 14, reg R7]
+OK: # 11000, 131072
+OK: # 12000, 131072
+OK: # 13000, 131072
+IN: [bit 26, reg R14]
+OK: # 14000, 131072
+IN: [bit 19, reg R3]
+OK: # 15000, 131072
+IN: [bit 27, reg R7]
+OK: # 16000, 131072
+OK: # 17000, 131072
+IN: [bit 13, reg R14]
+IN: [bit 7, reg R5]
+OK: # 18000, 131072
+OK: # 19000, 131072
+IN: [bit 24, reg R9]
+OK: # 20000, 131072
+OK: # 21000, 131072
+OK: # 22000, 131072
+OK: # 23000, 131072
+IN: [bit 23, reg R8388610]
+OK: # 24000, 131072
+OK: # 25000, 131072
+OK: # 26000, 131072
+IN: [bit 9, reg R1]
+IN: [bit 26, reg R0]
+OK: # 27000, 131072
+OK: # 28000, 131072
+OK: # 29000, 131072
+IN: [bit 14, reg R9]
+IN: [bit 29, reg R9]
+OK: # 30000, 131072
+OK: # 31000, 131072
+OK: # 32000, 131072
+OK: # 33000, 131072
+OK: # 34000, 131072
+IN: [bit 7, reg R6]
+OK: # 35000, 131072
+IN: [bit 29, reg R8]
+OK: # 36000, 131072
+IN: [bit 19, reg R15]
+IN: [bit 10, reg R3]
+OK: # 37000, 131072
+IN: [bit 30, reg R13]
+IN: [bit 26, reg R5]
+OK: # 38000, 131072
+IN: [bit 8, reg R12]
+IN: [bit 25, reg R9]
+OK: # 39000, 131072
+OK: # 40000, 131072
+OK: # 41000, 131072
+IN: [bit 17, reg R6]
+OK: # 42000, 131072
+OK: # 430
+00, 131072
+IN: [bit 3, reg
+R0]
+OK: # 44000, 131072
+OK: # 45000, 131072
+IN: [bit 30, r
+eg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 8, reg R0]
+IN: [bit 1073741854, reg R4]
+OK: # 1000, 0
+IN: [bit 11, reg R5]
+IN: [bit 15, reg R3]
+IN: [bit 14, reg R3]
+OK: # 2000, 0
+IN: [bit 18, reg R3]
+IN: [bit 33554457, reg R4]
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 4, reg R11]
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 19, reg R8]
+OK: # 8000, 0
+IN: [bit 2, reg R8]
+OK: # 9000, 4
+OK: # 10000, 4
+IN: [bit 3, reg R10]
+OK: # 11000, 4
+IN: [bit 12, reg R12]
+IN: [bit 14, reg R16386]
+OK: # 12000, 4
+IN: [bit 29, reg R13]
+OK: # 13000, 4
+OK: # 14000, 4
+OK: # 15000, 4
+IN: [bit 20, reg R10]
+IN: [bit 26, reg R13]
+OK: # 16000, 4
+IN: [bit 27, reg R12]
+OK: # 17000, 4
+IN: [bit 521, reg R4]
+OK: # 18000, 4
+IN: [bit 24, reg R3]
+OK: # 19000, 4
+IN: [bit 30, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 10, reg R0]
+IN: [bit 1, reg R10]
+OK: # 1000, 0
+IN: [bit 24, reg R16777218]
+IN: [bit 17, reg R1]
+OK: # 2000, 0
+IN: [bit 135, reg R4]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 4, reg R11]
+IN: [bit 33554457, reg R4]
+OK: # 7000, 0
+IN: [bit 9, reg R13]
+OK: # 8000, 0
+OK: # 9000, 0
+OK: # 10000, 0
+IN: [bit 11, reg R5]
+OK: # 11000, 0
+IN: [bit 19, reg R524290]
+IN: [bit 27, reg R10]
+OK: # 12000, 0
+IN: [bit 27, reg R7]
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+IN: [bit 15, reg R8]
+OK: # 16000, 32768
+IN: [bit 8, reg R7]
+OK: # 17000, 32768
+OK: # 18000, 32768
+OK: # 19000, 32768
+OK: # 20000, 32768
+IN: [bit 27, reg R3]
+OK: # 21000, 32768
+IN: [bit 11, reg R4]
+OK: # 22000, 32768
+OK: # 23000, 32768
+OK: # 24000, 32768
+IN: [bit 29, reg R7]
+OK: # 25000, 32768
+OK: # 26000, 32768
+OK: # 27000, 32768
+IN: [bit 27, reg R13]
+IN: [bit 17, reg R13]
+IN: [bit 0, reg R5]
+OK: # 28000, 32768
+IN: [bit 19, reg R11]
+OK: # 29000, 32768
+OK: # 30000, 32768
+OK: # 31000, 32768
+IN: [bit 1, reg R5]
+OK: # 32000, 32768
+OK: # 33000, 32768
+OK: # 34000, 32768
+OK: # 35000, 32768
+IN: [bit 9, reg R5]
+OK: # 36000, 32768
+OK: # 37000, 32768
+OK: # 38000, 32768
+IN: [bit 12, reg R0]
+OK: # 39000, 32768
+IN: [bit 4, reg R9]
+OK: # 40000, 32768
+OK: # 41000, 32768
+IN: [bit 11, reg R8]
+OK: # 42000, 32768
+IN: [bit 9, reg R5]
+IN: [bit 13, reg R0]
+OK: # 43000, 32768
+OK: # 44000, 32768
+OK: # 45000, 32768
+OK: # 46000, 32768
+OK: # 47000, 32768
+IN: [bit 28, reg R9]
+IN: [bit 21, reg R11]
+OK: # 48000, 32768
+IN: [bit 9, reg R1]
+IN: [bit 7, reg R13]
+OK: # 49000, 32768
+OK: # 50000, 32768
+OK: # 51000, 32768
+IN: [bit 28, reg R11]
+OK: # 52000, 32768
+OK: # 53000, 32768
+OK: # 54000
+, 32768
+IN: [bit 21, reg R5]
+OK: # 55000, 32768
+OK: # 56000, 32768
+OK: # 57000, 32768
+IN: [bit 0, reg R1]
+OK: # 58000, 32768
+OK: # 59000, 32768
+IN: [bit 30, reg R13]
+IN: [bit 12, reg R15]
+IN: [bit 12, reg R8]
+OK: # 60000, 32768
+IN: [bit 16, reg R9]
+OK: # 61000, 32768
+OK: # 62000, 32768
+IN: [bit 28, reg R12]
+OK: # 63000, 32768
+OK: # 64000, 32768
+OK: # 65000, 32768
+OK: # 66000, 32768
+IN: [bit 10, reg R12]
+OK: # 67000, 32768
+OK: # 68000, 32768
+IN: [bit 27, reg R10]
+IN: [bit 27, reg R0]
+IN: [bit 2, reg R11]
+OK: # 69000, 32768
+OK: # 70000, 32768
+IN: [bit 27, reg R10]
+OK: # 71000, 32768
+OK: # 72000, 32768
+OK: # 73000, 32768
+IN: [bit 13, reg R8]
+IN: [bit 11, reg R3]
+OK: # 74000, 32768
+IN: [bit 8, reg R1]
+IN: [bit 30, reg R9]
+IN: [bit 7, reg R5]
+OK: # 75000, 32768
+IN: [bit 28, reg R268435458]
+OK: # 76000, 32768
+IN: [bit 22, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 19, reg R12]
+OK: # 1000, 0
+IN: [bit 7, reg R14]
+OK: # 2000, 0
+IN: [bit 10, reg R5]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 20, reg R15]
+IN: [bit 20, reg R3]
+OK: # 7000, 0
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 22, reg R14]
+OK: # 10000, 0
+IN: [bit 17, reg R13]
+OK: # 11000, 0
+IN: [bit 25, reg R8]
+IN: [bit 16777240, reg R4]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 18, reg R15]
+IN: [bit 26, reg R10]
+OK: # 15000, 0
+IN: [bit 5, reg R1]
+OK: # 16000, 0
+OK: # 17000, 0
+OK: # 18000, 0
+IN: [bit 21, reg R12]
+OK: # 19000, 0
+IN: [bit 31, reg R9]
+IN: [bit 25, reg R1]
+OK: # 20000, 0
+OK: # 21000, 0
+IN: [bit 1, reg R6]
+IN: [bit 7, reg R1]
+OK: # 22000, 0
+OK: # 23000, 0
+OK: # 24000, 0
+OK: # 25000, 0
+OK: # 26000, 0
+OK: # 27000, 0
+OK: # 28000, 0
+OK: # 29000, 0
+OK: # 30000, 0
+IN: [bit 20, reg R3]
+OK: # 31000, 0
+IN: [bit 1, reg R13]
+OK: # 32000, 0
+OK: # 33000, 0
+IN: [bit 11, reg R1]
+IN: [bit 19, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 0, reg R3]
+IN: [bit 13, reg R0]
+IN: [bit 0, reg R13]
+OK: # 1000, 0
+OK: # 2000, 0
+IN: [bit 29, reg R3]
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 14, reg R15]
+IN: [bit 14, reg R3]
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+OK: # 8000, 0
+OK: # 9000, 0
+OK: # 10000, 0
+IN: [bit 4, reg R11]
+OK: # 11000, 0
+IN: [bit 29, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit -2147483617, reg R4]
+OK: # 1000, 0
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 6, reg R4]
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 18, reg R8]
+IN: [bit 1, reg R1]
+OK: # 8000, 0
+IN: [bit 24, reg R10]
+OK: # 9000, 0
+OK: # 10000, 0
+OK: # 11000, 0
+IN: [bit 4, reg R7]
+OK: # 12000, 0
+IN: [bit 20, reg R7]
+OK: # 13000, 0
+IN: [bit 8, reg R13]
+IN: [bit 135, reg R4]
+IN: [bit 26, reg R6]
+OK: # 14000, 0
+OK: # 15000, 0
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 8, reg R8]
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+OK: # 21000, 0
+OK: # 22000, 0
+IN: [bit 21, reg R1]
+OK: # 23000, 0
+IN: [bit 20, reg R9]
+OK: # 24000, 0
+OK: # 25000, 0
+IN: [bit 14, reg R9]
+OK: # 26000, 0
+IN: [bit 8, reg R11]
+OK: # 27000, 0
+IN: [bit 15, reg R13]
+OK: # 28000, 0
+IN: [bit 10, reg R13]
+OK: # 29000, 0
+OK: # 30000, 0
+IN: [bit 27, reg R12]
+OK: # 31000, 0
+IN: [bit 6, reg R12]
+OK: # 32000, 0
+IN: [bit 18, reg R8]
+OK: # 33000, 0
+IN: [bit 19, reg R11]
+OK: # 34000, 0
+OK: # 35000, 0
+IN: [bit 0, reg R7]
+}
+OK: # 36000, 0
+OK: # 37000, 0
+IN: [bit 10, reg R9]
+OK: # 38000, 0
+OK: # 39000, 0
+OK: # 40000, 0
+IN: [bit 6, reg R12]
+OK: # 41000, 0
+IN: [bit 5, reg R10]
+OK: # 42000, 0
+IN: [bit 5, reg R14]
+OK: # 43000, 0
+IN: [bit 2, reg R13]
+OK: # 44000, 0
+OK: # 45000, 0
+OK: # 46000, 0
+OK: # 47000, 0
+OK: # 48000, 0
+OK: # 49000, 0
+IN: [bit 5, reg R0]
+OK: # 50000, 0
+OK: # 51000, 0
+OK: # 52000, 0
+OK: # 53000, 0
+IN: [bit 9, reg R14]
+OK: # 54000, 0
+OK: # 55000, 0
+IN: [bit 18, reg R7]
+OK: # 56000, 0
+IN: [bit 25, reg R8]
+IN: [bit 6, reg R12]
+OK: # 57000, 0
+IN: [bit 3, reg R10]
+OK: # 58000, 0
+IN: [bit 7, reg R7]
+OK: # 59000, 0
+IN: [bit 27, reg R13]
+OK: # 60000, 0
+OK: # 61000, 0
+OK: # 62000, 0
+IN: [bit 23, reg R10]
+IN: [bit 31, reg R0]
+OK: # 63000, 0
+OK: # 64000, 0
+IN: [bit 12, reg R5]
+IN: [bit 23, reg R14]
+OK: # 65000, 0
+IN: [bit 11, reg R2050]
+OK: # 66000, 0
+IN: [bit 8, reg R258]
+OK: # 67000, 0
+OK: # 68000, 0
+IN: [bit 22, reg R7]
+OK: # 69000, 0
+OK: # 70000, 0
+IN: [bit 30, reg R10]
+IN: [bit 31, reg R11]
+OK: # 71000, 0
+OK: # 72000, 0
+OK: # 73000, 0
+IN: [bit 28, reg R13]
+IN: [bit 25, reg R5]
+OK: # 74000
+, 0
+OK: # 75000, 0
+IN: [bit 27, reg R9]
+OK: # 76000, 0
+OK: # 77000, 0
+OK: # 78000, 0
+IN: [bit 29, reg R15]
+IN: [bit 2, reg R6]
+IN: [bit 5, reg R5]
+OK: # 79000, 0
+IN: [bit 30, reg R5]
+IN: [bit 24, reg R14]
+OK: # 80000, 0
+OK: # 81000, 0
+IN: [bit 12, reg R5]
+OK: # 82000, 0
+IN: [bit 20, reg R4]
+OK: # 83000, 0
+IN: [bit 10, reg R11]
+IN: [bit 8, reg R3]
+OK: # 84000, 0
+OK: # 85000, 0
+OK: # 86000, 0
+OK: # 87000, 0
+OK: # 88000, 0
+IN: [bit 9, reg R1]
+IN: [bit 25, reg R11]
+OK: # 89000, 0
+OK: # 90000, 0
+OK: # 91000, 0
+OK: # 92000, 0
+OK: # 93000, 0
+IN: [bit 18, reg R6]
+IN: [bit 6, reg R3]
+OK: # 94000, 0
+IN: [bit 4, reg R0]
+OK: # 95000, 0
+IN: [bit 14, reg R10]
+OK: # 96000, 0
+OK: # 97000, 0
+IN: [bit 18, reg R262146]
+IN: [bit 6, reg R8]
+OK: # 98000, 0
+IN: [bit 3, reg R3]
+OK: # 99000, 0
+IN: [bit 23, reg R13]
+IN: [bit 8, reg R14]
+OK: # 100000, 0
+OK: # 101000, 0
+IN: [bit 21, reg R12]
+IN: [bit 7, reg R13]
+OK: # 102000, 0
+OK: # 103000, 0
+IN: [bit 12, reg R15]
+OK: # 104000, 0
+IN: [bit 2, reg R3]
+IN: [bit 70, reg R4]
+IN: [bit 11, reg R8]
+OK: # 105000, 0
+IN: [bit 6, reg R12]
+OK: # 106000, 0
+OK: # 107000, 0
+IN: [bit 21, reg R2097154]
+OK: # 108000, 0
+OK: # 109000, 0
+IN: [bit 25, reg R8]
+OK: # 110000, 0
+IN: [bit 16, reg R6]
+IN: [bit 8, reg R9]
+DE: [i: 110935]   E: {5_0: [0, 15cf9],5_1: [0, 1],5_3: [0, 1b157],}
+IN: [bit 5, reg R15]
+OK: # 111000, 3
+IN: [bit 26, reg R1]
+OK: # 112000, 3
+OK: # 113000, 3
+IN: [bit 20, reg R12]
+IN: [bit 70, reg R4]
+IN: [bit 26, reg R11]
+IN: [bit 29, reg R11]
+IN: [bit 0, reg R5]
+OK: # 114000, 3
+IN: [bit 26, reg R7]
+IN: [bit 9, reg R8]
+OK: # 115000, 3
+IN: [bit 13, reg R6]
+OK: # 116000, 3
+OK: # 117000, 3
+IN: [bit 8, reg R13]
+OK: # 118000, 3
+IN: [bit 15, reg R3]
+IN: [bit 25, reg R33554434]
+OK: # 119000, 3
+IN: [bit 29, reg R14]
+OK: # 120000, 3
+OK: # 121000, 3
+OK: # 122000, 3
+OK: # 123000, 3
+IN: [bit 19, reg R3]
+OK: # 124000, 3
+IN: [bit 15, reg R8]
+OK: # 125000, 3
+IN: [bit 7, reg R3]
+IN: [bit 16, reg R1]
+OK: # 126000, 3
+OK: # 127000, 3
+OK: # 128000, 3
+IN: [bit 3, reg R15]
+OK: # 129000, 3
+OK: # 130000, 3
+OK: # 131000, 3
+OK: # 132000, 3
+IN: [bit 16, reg R13]
+OK: # 133000, 3
+OK: # 134000, 3
+IN: [bit 6, reg R3]
+OK: # 135000, 3
+IN: [bit 25, reg R1]
+OK: # 136000, 3
+OK: # 137000, 3
+IN: [bit 4, reg R7]
+OK: # 138000, 3
+OK: # 139000, 3
+IN: [bit 13, reg R15]
+OK: # 140000, 3
+IN: [bit 6, reg R13]
+IN: [bit 2, reg R5]
+IN: [bit 10, reg R12]
+IN: [bit 11, reg R12]
+OK: # 141000, 3
+OK: # 142000, 3
+IN: [bit 7, reg R130]
+OK: # 143000, 3
+OK: # 144000, 3
+IN: [bit 23, reg R5]
+OK: # 145000, 3
+IN: [bit 134217755, reg R4]
+OK: # 146000, 3
+OK: # 147000, 3
+IN: [bit 16777240, reg R4]
+OK: # 148000, 3
+IN: [bit 4, reg R1]
+OK: # 149000, 3
+OK: # 150000, 3
+IN: [bit 2, reg R6]
+OK: # 151000, 3
+OK: # 152000, 3
+IN: [bit 2097173, reg R4]
+OK: # 153000, 3
+OK: # 154000, 3
+IN: [bit 20, reg R10]
+IN: [bit 22, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 31, reg R9]
+OK: # 1000, 0
+OK: # 2000, 0
+OK: # 3000, 0
+IN: [bit 17, reg R15]
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 1, reg R9]
+IN: [bit 26, reg R7]
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 13, reg R11]
+OK: # 8000, 0
+OK: # 9000, 0
+OK: # 10000, 0
+IN: [bit 11, reg R14]
+IN: [bit 30, reg R11]
+OK: # 11000, 0
+IN: [bit 28, reg R12]
+IN: [bit 12, reg R5]
+OK: # 12000, 0
+IN: [bit 24, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 15, reg R12]
+IN: [bit 0, reg R7]
+}
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 14, reg R1]
+OK: # 5000, 0
+IN: [bit 21, reg R14]
+IN: [bit 14, reg R15]
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 16, reg R3]
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 6, reg R4]
+OK: # 10000, 0
+IN: [bit 19, reg R0]
+IN: [bit 3, reg R14]
+OK: # 11000, 0
+IN: [bit 11, reg R13]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 11, reg R2050]
+OK: # 15000, 0
+IN: [bit 13, reg R0]
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 17, reg R7]
+OK: #
+18000, 0
+IN: [bit 20, reg R4]
+IN: [bit 17, reg R7]
+}
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 22, reg R10]
+OK: # 21000, 0
+OK: # 22000, 0
+OK: # 23000, 0
+IN: [bit 29, reg R0]
+OK: # 24000, 0
+OK: # 25000, 0
+OK: # 26000, 0
+IN: [bit 4, reg R10]
+OK: # 27000, 0
+IN: [bit 23, reg R12]
+OK: # 28000, 0
+IN: [bit 23, reg R7]
+OK: # 29000, 0
+IN: [bit 3, reg R14]
+OK: # 30000, 0
+OK: # 31000, 0
+IN: [bit 5, reg R14]
+IN: [bit 1, reg R0]
+OK: # 32000, 0
+IN: [bit 8, reg R11]
+IN: [bit 17, reg R9]
+OK: # 33000, 0
+OK: # 34000, 0
+IN: [bit 25, reg R15]
+OK: # 35000, 0
+OK: # 36000, 0
+IN: [bit 18, reg R9]
+OK: # 37000, 0
+IN: [bit 27, reg R15]
+IN: [bit 8, reg R6]
+IN: [bit 16, reg R11]
+OK: # 38000, 0
+IN: [bit 15, reg R9]
+IN: [bit 4194326, reg R4]
+OK: # 39000, 0
+IN: [bit 536870941, reg R4]
+OK: # 40000, 0
+IN: [bit 9, reg R15]
+OK: # 41000, 0
+IN: [bit 6, reg R6]
+OK: # 42000, 0
+OK: # 43000, 0
+IN: [bit 10, reg R1]
+OK: # 44000, 0
+IN: [bit 3, reg R5]
+OK: # 45000, 0
+OK: # 46000, 0
+IN: [bit 28, reg R14]
+IN: [bit 13, reg R11]
+OK: # 47000, 0
+OK: # 48000, 0
+IN: [bit 27, reg R134217730]
+OK: # 49000, 0
+OK: # 50000, 0
+IN: [bit 3, reg R9]
+OK: # 51000, 0
+OK: # 52000, 0
+OK: # 53000, 0
+OK: # 54000, 0
+OK: # 55000, 0
+OK: # 56000, 0
+IN: [bit 6, reg R12]
+OK: # 57000, 0
+IN: [bit 5, reg R12]
+OK: # 58000, 0
+IN: [bit 5, reg R1]
+IN: [bit 28, reg R1]
+OK: # 59000, 0
+OK: # 60000, 0
+IN: [bit 15, reg R14]
+IN: [bit 0, reg R7]
+IN: [bit 12, reg R15]
+OK: # 61000, 0
+OK: # 62000, 0
+IN: [bit 2, reg R9]
+OK: # 63000, 0
+IN: [bit 26, reg R5]
+OK: # 64000, 0
+IN: [bit 4, reg R10]
+IN: [bit 8, reg R8]
+OK: # 65000, 0
+OK: # 66000, 0
+OK: # 67000, 0
+IN: [bit 30, reg R3]
+OK: # 68000, 0
+OK: # 69000, 0
+IN: [bit 21, reg R13]
+OK: # 70000, 0
+IN: [bit 10, reg R1026]
+OK: # 71000, 0
+OK: # 72000, 0
+IN: [bit 16, reg R10]
+IN: [bit 14, reg R1]
+OK: # 73000, 0
+IN: [bit 10, reg R8]
+OK: # 74000, 0
+OK: # 75000, 0
+IN: [bit 4, reg R11]
+IN: [bit 25, reg R14]
+OK: # 76000, 0
+IN: [bit 16777240, reg R4]
+IN: [bit 4, reg R12]
+OK: # 77000, 0
+IN: [bit 28, reg R14]
+IN: [bit 16777240, reg R4]
+OK: # 78000, 0
+IN: [bit 131089, reg R4]
+OK: # 79000, 0
+OK: # 80000, 0
+OK: # 81000, 0
+OK: # 82000, 0
+IN: [bit 31, reg R9]
+IN: [bit 26, reg R67108866]
+OK: # 83000, 0
+IN: [bit 29, reg R536870914]
+OK: # 84000, 0
+OK: # 85000, 0
+IN: [bit 15, reg R10]
+OK: # 86000, 0
+OK: # 87000, 0
+OK: # 88000, 0
+OK: # 89000, 0
+IN: [bit 12, reg R0]
+OK: # 90000, 0
+IN: [bit 30, reg R8]
+OK: # 91000, 0
+IN: [bit 26, reg R6]
+OK: # 92000, 0
+IN: [bit 15, reg R0]
+OK: # 93000, 0
+OK: # 94000, 0
+IN: [bit 28, reg R11]
+OK: # 95000, 0
+OK: # 96000, 0
+OK: # 97000, 0
+OK: # 98000, 0
+OK: # 99000, 0
+IN: [bit 13, reg R10]
+OK: # 100000, 0
+IN: [bit 10, reg R5]
+OK: # 101000, 0
+OK: # 102000, 0
+IN: [bit 4, reg R7]
+IN: [bit 7, reg R6]
+OK: # 103000, 0
+IN: [bit 6, reg R1]
+OK: # 104000, 0
+OK: # 105000, 0
+IN: [bit 11, reg R9]
+OK: # 106000, 0
+OK: # 107000, 0
+IN: [bit 26, reg R9]
+OK: # 108000, 0
+IN: [bit 17, reg R7]
+IN: [bit 26, reg R5]
+OK: # 109000, 0
+IN: [bit 10, reg R1]
+IN: [bit 32783, reg R4]
+OK: # 110000, 0
+IN: [bit 268435484, reg R4]
+IN: [bit 21, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 1, reg R6]
+OK: # 2000, 0
+OK: # 3000, 0
+IN: [bit 9, reg R15]
+OK: # 4000, 0
+IN: [bit 6, reg R0]
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 13, reg R3]
+IN: [bit 131089, reg R4]
+OK: # 8000, 0
+OK: # 9000, 0
+OK: # 10000, 0
+OK: # 11000, 0
+IN: [bit 13, reg R8]
+IN: [bit 7, reg R1]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+OK: # 16000, 0
+IN: [bit 10, reg R13]
+OK: # 17000, 0
+IN: [bit 7, reg R6]
+OK: # 18000, 0
+IN: [bit 23, reg R15]
+IN: [bit 24, reg R10]
+OK: # 19000, 0
+IN: [bit 33554457, reg R4]
+OK: # 20000, 0
+IN: [bit 23, reg R11]
+OK: # 21000, 0
+OK: # 22000, 0
+IN: [bit 15, reg R6]
+IN: [bit 12, reg R8]
+OK: # 23000, 0
+OK: # 24000, 0
+OK: # 25000, 0
+IN: [bit 25, reg R33554434]
+IN: [bit 6, reg R13]
+OK: # 26000, 0
+IN: [bit 5, reg R15]
+IN: [bit 10, reg R1]
+OK: # 27000, 0
+IN: [bit 12, reg R5]
+IN: [bit 37, reg R4]
+IN: [bit 23, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 29, reg R1]
+OK: # 1000, 0
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 262162, reg R4]
+IN: [bit 25, reg R12]
+OK: # 6000, 0
+IN: [bit 19, reg R0]
+IN: [bit 25, reg R33554434]
+OK: # 7000, 0
+OK: # 8000, 0
+IN: [bit 23, reg R3]
+OK: # 9000, 0
+IN: [bit 5, reg R12]
+OK: # 10000, 0
+IN: [bit 7, reg R15]
+IN: [bit 15, reg R9]
+OK: # 11000, 0
+IN: [bit 4108, reg R4]
+IN: [bit 19, reg R1]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+OK: # 16000, 0
+IN: [bit 6, reg R8]
+IN: [bit 31, reg R7]
+OK: # 17000, 0
+IN: [bit 13, reg R5]
+IN: [bit 19, reg R0]
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+OK: # 21000, 0
+IN: [bit 6, reg R8]
+OK: # 22000, 0
+IN: [bit 28, reg R268435458]
+OK: # 23000, 0
+OK: # 24000, 0
+OK: # 25000, 0
+IN: [bit 21, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 4, reg R6]
+OK: # 1000, 0
+OK: # 2000, 0
+IN: [bit 20, reg R15]
+OK: # 3000, 0
+IN: [bit 27, reg R134217730]
+IN: [bit 10, reg R3]
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 13, reg R13]
+OK: # 6000, 0
+IN: [bit 10, reg R8]
+IN: [bit 9, reg R514]
+OK: # 7000, 0
+IN: [bit 24, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 25, reg R1]
+IN: [bit 6, reg R10]
+DE: [i: 456]   E: {0_7: [40f86a00, 0],0_9: [412e8480, 0],0_11: [416312d0, 0],1_1: [4197d784, 0],1_3: [41cdcd65, 0],}
+IN: [bit 19, reg R9]
+OK: # 1000, 5
+OK: # 2000, 5
+IN: [bit 15, reg R13]
+OK: # 3000, 5
+OK: # 4000, 5
+IN: [bit 0, reg R9]
+IN: [bit 3, reg R6]
+OK: # 5000, 5
+IN: [bit 17, reg R13]
+IN: [bit 29, reg R11]
+OK: # 6000, 5
+IN: [bit 5, reg R14]
+OK: # 7000, 5
+IN: [bit 21, reg R10]
+OK: # 8000, 5
+IN: [bit 29, reg R13]
+OK: # 9000, 5
+IN: [bit 24, reg R15]
+OK: # 10000, 5
+IN: [bit 17, reg R8]
+IN: [bit 0, reg R12]
+IN: [bit 9, reg R12]
+OK: # 11000, 5
+IN: [bit 25, reg R3]
+IN: [bit 22, reg R9]
+IN: [bit 15, reg R0]
+OK: # 12000, 5
+IN: [bit 14, reg R15]
+OK: # 13000, 5
+IN: [bit 8, reg R13]
+OK: # 14000, 5
+OK: # 15000, 5
+IN: [bit 11, reg R3]
+OK: # 16000, 5
+IN: [bit 14, reg R6]
+OK: # 17000, 5
+IN: [bit 14, reg R3]
+OK: # 18000, 5
+OK: # 19000, 5
+OK: # 20000, 5
+OK: # 21000, 5
+IN: [bit 11,
+reg R9]
+OK: # 22000, 5
+IN: [bit 14, reg R13]
+OK: # 23000, 5
+IN: [bit 7, reg R1]
+IN: [bit 31, reg R9]
+OK: # 24000, 5
+OK: # 25000, 5
+OK: # 26000, 5
+OK: # 27000, 5
+IN: [bit 9, reg R1]
+OK: # 28000, 5
+IN: [bit 18, reg R11]
+OK: # 29000, 5
+IN: [bit 6, reg R0]
+OK: # 30000, 5
+OK: # 31000, 5
+IN: [bit 8, reg R8]
+IN: [bit 11, reg R2050]
+OK: # 32000, 261
+IN: [bit 18, reg R3]
+IN: [bit 7, reg R130]
+OK: # 33000, 261
+OK: # 34000, 261
+OK: # 35000, 261
+OK: # 36000, 261
+IN: [bit 4, reg R3]
+OK: # 37000, 261
+IN: [bit 7, reg R6]
+OK: # 38000, 261
+OK: # 39000, 261
+OK: # 40000, 261
+OK: # 41000, 261
+IN: [bit 24, reg R8]
+OK: # 42000, 261
+IN: [bit 15, reg R14]
+OK: # 43000, 261
+IN: [bit 25, reg R13]
+OK: # 44000, 261
+OK: # 45000, 261
+OK: # 46000, 261
+IN: [bit 20, reg R1]
+IN: [bit 4194326, reg R4]
+OK: # 47000, 261
+IN: [bit 8, reg R10]
+OK: # 48000, 261
+IN: [bit 18, reg R7]
+IN: [bit 30, reg R1073741826]
+IN: [bit 3, reg R13]
+OK: # 49000, 261
+OK: # 50000, 261
+OK: # 51000, 261
+OK: # 52000, 261
+IN: [bit 2, reg R8]
+OK: # 53000, 261
+IN: [bit 10, reg R3]
+OK: # 54000, 261
+IN: [bit 131089, reg R4]
+OK: # 55000, 261
+IN: [bit 10, reg R3]
+OK: # 56000, 261
+OK: # 57000, 261
+OK: # 58000, 261
+OK: # 59000, 261
+IN: [bit 30, reg R5]
+OK: # 60000, 261
+IN: [bit 3, reg R7]
+OK: # 61000, 261
+IN: [bit 7, reg R5]
+OK: # 62000, 261
+IN: [bit 11, reg R9]
+IN: [bit 1, reg R10]
+OK: # 63000, 261
+OK: # 64000, 261
+OK: # 65000, 261
+IN: [bit 22, reg R4194306]
+OK: # 66000, 261
+IN: [bit 16, reg R14]
+OK: # 67000, 261
+OK: # 68000, 261
+IN: [bit 14, reg R1]
+IN: [bit
+0, reg R14]
+OK: # 69000, 261
+IN: [bit 19, reg R524290]
+OK: # 70000, 261
+IN: [bit 22, reg R7]
+}
+OK: # 71000, 261
+OK: # 72000, 261
+OK: # 73000, 261
+IN: [bit 13, reg R8]
+IN: [bit 4108, reg R4]
+OK: # 74000, 261
+IN: [bit 31, reg R15]
+OK: # 75000, 261
+OK: # 76000, 261
+OK: # 77000, 261
+OK: # 78000, 261
+IN: [bit 3, reg R15]
+OK: # 79000, 261
+IN: [bit 21, reg R7]
+OK: # 80000, 261
+OK: # 81000, 261
+OK: # 82000, 261
+OK: # 83000, 261
+OK: # 84000, 261
+IN: [bit 19, reg R5]
+OK: # 85000, 261
+OK: # 86000, 261
+IN: [bit 9, reg R0]
+OK: # 87000, 261
+IN: [bit 20, reg R8]
+OK: # 88000, 261
+IN: [bit 4, reg R6]
+OK: # 89000, 261
+IN: [bit 19, reg R524290]
+OK: # 90000, 261
+IN: [bit 5, reg R6]
+IN: [bit 12, reg R4098]
+OK: # 91000, 261
+IN: [bit 25, reg R15]
+IN: [bit 30, reg R3]
+OK: # 92000, 261
+IN: [bit 5, reg R34]
+OK: # 93000, 261
+IN: [bit 27, reg R3]
+OK: # 94000, 261
+OK: # 95000, 261
+IN: [bit 24, reg R12]
+OK: # 96000, 261
+OK: # 97000, 261
+OK: # 98000, 261
+IN: [bit 26, reg R13]
+OK: # 99000, 261
+OK: # 100000, 261
+OK: # 101000, 261
+OK: # 102000, 261
+IN: [bit 2, reg R8]
+OK: # 103000, 261
+OK: # 104000, 261
+OK: # 105000, 261
+IN: [bit 25, reg R8]
+IN: [bit 26, reg R6]
+OK: # 106000, 261
+OK: # 107000, 261
+OK: # 108000, 261
+OK: # 109000, 261
+IN: [bit 20, reg R15]
+OK: # 110000, 261
+OK: # 111000, 261
+IN: [bit 23, reg R10]
+OK: # 112000, 261
+OK: # 113000, 261
+IN: [bit 18, reg R7]
+IN: [bit 14, reg R10]
+OK: # 114000, 261
+OK: # 115000, 261
+IN: [bit 3, reg R3]
+OK: # 116000, 261
+OK: # 117000, 261
+OK: # 118000, 261
+OK: # 119000, 261
+OK: # 120000, 261
+IN: [bit 28, reg R10]
+IN: [bit 30, reg R15]
+IN: [bit 12, reg R6]
+DE: [i: 120504]   E: {11_2: [ffffffff, 0],}
+IN: [bit 7, reg R7]
+IN: [bit 28, reg R9]
+OK: # 121000, 262
+IN: [bit 26, reg R0]
+OK: # 122000, 262
+IN: [bit 7, reg R6]
+OK: # 123000, 262
+IN: [bit 0, reg R9]
+OK: # 124000, 262
+IN: [bit 8, reg R3]
+IN: [bit 16, reg R12]
+OK: # 125000, 262
+OK: # 126000, 262
+OK: # 127000, 262
+IN: [bit 27, reg R1]
+OK: # 128000, 262
+IN: [bit 10, reg R11]
+IN: [bit 11, reg R7]
+OK: # 129000, 262
+IN: [bit 13, reg R1]
+IN: [bit 28, reg R1]
+OK: # 130000, 262
+IN: [bit 21, reg R12]
+OK: # 131000, 262
+IN: [bit 31, reg R3]
+IN: [bit 32783, reg R4]
+OK: # 132000, 262
+IN: [bit 5, reg R34]
+OK: # 133000, 262
+OK: # 134000, 262
+IN: [bit 29, reg R13]
+OK: # 135000, 262
+OK: # 136000, 262
+OK: # 137000, 262
+IN: [bit 3, reg R6]
+OK: # 138000, 262
+OK: # 139000, 262
+OK: # 140000, 262
+IN: [bit 11, reg R7]
+OK: # 141000, 262
+IN: [bit 5, reg R9]
+OK: # 142000, 262
+OK: # 143000, 262
+OK: # 144000, 262
+IN: [bit 25, reg R9]
+IN: [bit 10, reg R7]
+OK: # 145000, 262
+IN: [bit 17, reg R7]
+OK: # 146000, 262
+OK: # 147000, 262
+IN: [bit 7, reg R6]
+OK: # 0, 262
+IN: [bit 8205, reg R4]
+OK: # 1000, 262
+IN: [bit 0, reg R6]
+OK: # 2000, 262
+OK: # 3000, 262
+OK: # 4000, 262
+OK: # 5000, 262
+IN: [bit 18, reg R3]
+OK: # 6000, 262
+IN: [bit 18, reg R12]
+OK: # 7000, 262
+OK: # 8000, 262
+OK: # 9000, 262
+OK: # 10000, 262
+IN: [bit 25, reg R10]
+IN: [bit 9, reg R15]
+OK: # 11000, 262
+OK: # 12000, 262
+IN: [bit 9, reg R7]
+OK: # 13000, 262
+IN: [bit 31, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 15, reg R14]
+IN: [bit 25, reg R33554434]
+OK: # 2000, 0
+IN: [bit 4, reg R5]
+OK: # 3000, 0
+IN: [bit 17, reg R12]
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 28, reg R13]
+IN: [bit 19, reg R14]
+OK: # 6000, 0
+IN: [bit 0, reg R14]
+OK: # 7000, 0
+IN: [bit 27, reg R5]
+OK: # 8000, 0
+IN: [bit 10, reg R1026]
+IN: [bit 30, reg R1]
+OK: # 9000, 0
+IN: [bit 9, reg R7]
+OK: # 10000, 0
+IN: [bit 8, reg R11]
+OK: # 11000, 0
+IN: [bit 21, reg R10]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 23, reg R13]
+OK: # 15000, 0
+IN: [bit 10, reg R9]
+IN: [bit 14, reg R10]
+OK: # 16000, 0
+IN: [bit 31, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 12, reg R6]
+OK: # 1000, 0
+OK: # 2000, 0
+OK: # 3000, 0
+IN: [bit 25, reg R0]
+OK: # 4000, 0
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 1, reg R1]
+IN: [bit 4, reg R1]
+OK: # 7000, 0
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 20, reg R3]
+OK: # 10000, 0
+OK: # 11000, 0
+IN: [bit 5, reg R12]
+IN: [bit 14, reg R3]
+IN: [bit 31, reg R10]
+OK: # 12000, 0
+IN: [bit 22, reg R1]
+IN: [bit 22, reg R4194306]
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 3, reg R3]
+OK: # 15000, 0
+IN: [bit 21, reg R3]
+IN: [bit 2, reg R11]
+OK: # 16000, 0
+IN: [bit 20, reg R12]
+OK: # 17000, 0
+OK: # 18000, 0
+IN: [bit 24, reg R5]
+OK: # 19000, 0
+IN: [bit 14, reg R12]
+OK: # 20000, 0
+IN: [bit 0, reg R13]
+OK: # 21000, 0
+IN: [bit 16, reg R10]
+OK: # 22000, 0
+IN: [bit 18, reg R5]
+OK: # 23000, 0
+IN: [bit 7, reg R1]
+OK: # 24000, 0
+IN: [bit 9, reg R14]
+IN: [bit 28, reg R12]
+IN: [bit 10, reg R0]
+OK: # 25000, 0
+IN: [bit 3, reg R12]
+IN: [bit 20, reg R1048578]
+OK: # 26000, 0
+IN: [bit 26, reg R3]
+OK: # 27000, 0
+OK: # 28000, 0
+IN: [bit 30, reg R3]
+OK: # 29000, 0
+OK: # 30000, 0
+OK: # 31000, 0
+IN: [bit 16, reg R8]
+OK: # 32000, 0
+OK: # 33000, 0
+OK: # 34000, 0
+OK: # 35000, 0
+IN: [bit 26, reg R67108866]
+OK: # 36000, 0
+OK: # 37000, 0
+IN: [bit 13, reg R12]
+OK: # 38000, 0
+IN: [bit 31, reg R12]
+OK: # 39000, 0
+IN: [bit 3, reg R4]
+IN: [bit 3, reg R3]
+OK: # 40000, 0
+IN: [bit 10, reg R7]
+OK: # 41000, 0
+OK: # 42000, 0
+IN: [bit 19, reg R3]
+OK: # 43000, 0
+IN: [bit 2, reg R6]
+OK: # 44000, 0
+IN: [bit 28, reg R5]
+OK: # 45000, 0
+IN: [bit 24, reg R7]
+OK: # 46000, 0
+IN: [bit 22, reg R8]
+OK: # 47000, 0
+IN: [bit 28, reg R268435458]
+IN: [bit 11, reg R14]
+OK: # 48000, 0
+OK: # 49000, 0
+OK: # 50000, 0
+OK: # 51000, 0
+IN: [bit 5, reg R1]
+OK: # 52000, 0
+OK: # 53000, 0
+OK: # 54000, 0
+OK: # 55000, 0
+IN: [bit 8, reg R6]
+IN: [bit 7, reg R7]
+OK: # 0, 0
+IN: [bit 12, reg R3]
+OK: # 1000, 0
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 29, reg R8]
+OK: # 5000, 0
+IN: [bit 28, reg R12]
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 8, reg R0]
+OK: # 8000, 0
+IN: [bit 10, reg R3]
+IN: [bit 10, reg R12]
+OK: # 9000, 0
+IN: [bit 21, reg R5]
+OK: # 10000, 0
+IN: [bit 3, reg R1]
+OK: # 11000, 0
+IN: [bit 1, reg R13]
+IN: [bit 1, reg R8]
+OK: # 12000, 0
+OK: # 13000, 0
+IN: [bit 7, reg R7]
+IN: [bit 22, reg R3]
+IN: [bit 4, reg R0]
+OK: # 14000, 0
+OK: # 15000, 0
+IN: [bit 23, reg R7]
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 20, reg R11]
+IN: [bit 23, reg R0]
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 5, reg R6]
+IN: [bit 0, reg R5]
+OK: # 21000, 0
+OK: # 22000, 0
+IN: [bit 536870941, reg R4]
+OK: # 23000, 0
+IN: [bit 6, reg R11]
+IN: [bit 7, reg R9]
+OK: # 24000, 0
+OK: # 25000, 0
+OK: # 26000, 0
+OK: # 27000, 0
+IN: [bit 11, reg R14]
+OK: # 28000, 0
+IN: [bit 31, reg R1]
+OK: # 29000, 0
+OK: # 30000, 0
+IN: [bit 31, reg R0]
+IN: [bit 14, reg R9]
+OK: # 31000, 0
+IN: [bit 2, reg R7]
+IN: [bit 24, reg R3]
+IN: [bit 22, reg R3]
+IN: [bit 7, reg R15]
+IN: [bit 26, reg R9]
+OK: # 32000, 0
+OK: # 33000, 0
+IN: [bit 0, reg R8]
+OK: # 34000, 0
+IN: [bit 7, reg R8]
+OK: # 35000, 0
+IN: [bit 19, reg R12]
+IN: [bit 1048596, reg R4]
+OK: # 36000, 0
+IN: [bit 20, reg R10]
+IN: [bit 2, reg R15]
+OK: # 37000, 0
+IN: [bit 1, reg R8]
+OK: # 38000, 2
+OK: # 39000, 2
+OK: # 40000, 2
+IN: [bit 13, reg R9]
+IN: [bit 16, reg R3]
+IN: [bit 6, reg R6]
+OK: # 41000, 2
+IN: [bit 16, reg R3]
+OK: # 42000, 2
+OK: # 43000, 2
+IN: [bit 27, reg R11]
+IN: [bit 25, reg R8]
+OK: # 44000, 2
+IN: [bit 131089, reg R4]
+OK: # 45000, 2
+OK: # 46000, 2
+OK: # 47000, 2
+IN: [bit 14, reg R11]
+OK: # 48000, 2
+IN: [bit 31, reg R8]
+OK: # 49000, 2
+OK: # 50000, 2
+OK: # 51000, 2
+IN: [bit 23, reg R15]
+OK: # 52000, 2
+OK: # 53000, 2
+IN: [bit 15, reg R7]
+IN: [bit 25, reg R10]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 10, reg R1026]
+IN: [bit 22, reg R1]
+IN: [bit 6, reg R7]
+OK: # 1000, 0
+IN: [bit 23, reg R15]
+OK: # 2000, 0
+OK: # 3000, 0
+IN: [bit 12, reg R14]
+OK: # 4000, 0
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 19, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 12, reg R0]
+IN: [bit 1, reg R4]
+OK: # 1000, 0
+IN: [bit 5, reg R14]
+IN: [bit 4194326, reg R4]
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 6, reg R8]
+IN: [bit 6, reg R8]
+OK: # 7000, 0
+IN: [bit 31, reg R9]
+OK: # 8000, 0
+OK: # 9000
+, 0
+OK: # 10000, 0
+IN: [bit 0, reg R13]
+OK: # 11000, 0
+OK: # 12000, 0
+IN: [bit 29, reg R7]
+}
+IN: [bit 2, reg R11]
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 21, reg R1]
+OK: # 15000, 0
+IN: [bit 11, reg R8]
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [b
+it 16, reg R0]
+OK: # 18000, 0
+IN: [bit 11, reg R3]
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 19, reg R11]
+OK: # 21000, 0
+OK: # 22000, 0
+IN: [bit 3, reg R7]
+OK: # 23000, 0
+IN: [bit 24, reg R3]
+OK: # 24000, 0
+OK: # 25000, 0
+IN: [bit 29, reg R13]
+IN: [bit 13, reg R7]
+OK: # 26000, 0
+IN: [bit 14, reg R5]
+OK: # 27000, 0
+IN: [bit 9, reg R11]
+IN: [bit 4, reg R14]
+OK: # 28000, 0
+IN: [bit 28, reg R10]
+OK: # 29000, 0
+OK: # 30000, 0
+OK: # 31000, 0
+OK: # 32000, 0
+OK: # 33000, 0
+IN: [bit 15, reg R1]
+OK: # 34000, 0
+IN: [bit 12, reg R8]
+OK: # 35000, 0
+OK: # 36000, 0
+OK: # 37000, 0
+OK: # 38000, 0
+OK: # 39000, 0
+IN: [bit 4, reg R15]
+OK: # 40000, 0
+IN: [bit 17, reg R10]
+IN: [bit 25, reg R8]
+OK: # 41000, 0
+IN: [bit 30, reg R5]
+IN: [b
+it 4, reg R6]
+OK: # 42000, 0
+OK: # 43000, 0
+IN: [bit 5, reg R13]
+IN: [bit 13, reg R0]
+OK: # 44000, 0
+OK: # 45000, 0
+IN: [bit 3, reg R8]
+OK: # 46000, 0
+IN: [bit 17, reg R15]
+OK: # 47000, 0
+IN: [bit 8, reg R3
+]
+OK: # 48000, 0
+IN: [bit 21, reg R9]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 30, reg R1073741826]
+OK: # 2000, 0
+IN: [bit 5, reg R11]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 7, reg R3]
+IN: [bit 28, reg R14]
+OK: # 6000, 0
+OK: # 7000, 0
+OK: # 8000, 0
+IN: [bit 27, reg R5]
+IN: [bit 3, reg R6]
+OK: # 9000, 0
+OK: # 10000, 0
+OK: # 11000, 0
+OK: # 12000, 0
+IN: [bit 7, reg R10]
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 6, reg R9]
+OK: # 15000, 0
+IN: [bit 6, reg R4]
+IN: [bit 16, reg R5]
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 6, reg R8]
+IN: [bit 5, reg R11]
+IN: [bit 5, reg R6]
+IN: [bit 8, reg R9]
+IN: [bit 15, reg R0]
+OK: # 18000, 64
+OK: # 19000, 64
+IN: [bit 30, reg R1073741826]
+IN: [bit 29, reg R9]
+OK: # 20000, 64
+OK: # 21000, 64
+IN: [bit 26, reg R3]
+IN: [bit 6, reg R1]
+OK: # 22000, 64
+IN: [bit 19, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 20, reg R13]
+OK: # 2000, 0
+OK: # 3000, 0
+IN: [bit 30, reg R13]
+IN: [bit 2, reg R5]
+OK: # 4000, 0
+IN: [bit 8205, reg R4]
+OK: # 5000, 0
+OK: # 6000, 0
+IN: [bit 18, reg R11]
+OK: # 7000, 0
+IN: [bit 11, reg R14]
+OK: # 8000, 0
+OK: # 9000, 0
+OK: # 10000, 0
+OK: # 11000, 0
+IN: [bit 27, reg R13]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+OK: # 16000, 0
+IN: [bit 23, reg R11]
+IN: [bit 27, reg R6]
+DE: [i: 16678]   E: {7_3: [b045a796, 0],}
+OK: # 17000, 1
+IN: [bit 9, reg R9]
+IN: [bit 24, reg R9]
+OK: # 18000, 1
+IN: [bit 12, reg R10]
+OK: # 19000, 1
+IN: [bit 16, reg R14]
+OK: # 20000, 1
+OK: # 21000, 1
+IN: [bit 2, reg R0]
+OK: # 22000, 1
+OK: # 23000, 1
+OK: # 24000, 1
+IN: [bit 29, reg R7]
+OK: # 25000, 1
+OK: # 26000, 1
+OK: # 27000, 1
+IN: [bit 31, reg R14]
+IN: [bit 8, reg R1]
+IN: [bit 7, reg R3]
+OK: # 28000, 1
+OK: # 29000, 1
+IN: [bit 8, reg R9]
+OK: # 30000, 1
+OK: # 31000, 1
+OK: # 32000, 1
+IN: [bit 13, reg R8194]
+IN: [bit 5, reg R6]
+OK: # 0, 1
+OK: # 1000, 1
+IN: [bit 26, reg R10]
+IN: [bit 18, reg R9]
+OK: # 2000, 1
+IN: [bit 28, reg R7]
+IN: [bit 4, reg R13]
+OK: # 3000, 1
+IN: [bit 12, reg R12]
+OK: # 4000, 1
+OK: # 5000, 1
+IN: [bit 28, reg R10]
+OK: # 6000, 1
+OK: # 7000, 1
+OK: # 8000, 1
+IN: [bit 5, reg R1]
+OK: # 9000, 1
+IN: [bit 30, reg R14]
+OK: # 10000, 1
+OK: # 11000, 1
+OK: # 12000, 1
+IN: [bit 24, reg R9]
+IN: [bit 16, reg R6]
+IN: [bit 5, reg R10]
+IN: [bit 2, reg R8]
+OK: # 13000, 5
+OK: # 14000, 5
+OK: # 15000, 5
+IN: [bit 1, reg R4]
+OK: # 16000, 5
+IN: [bit 268435484, reg R4]
+OK: # 17000, 5
+IN: [bit 19, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 20, reg R5]
+OK: # 1000, 0
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 3, reg R13]
+OK: # 6000, 0
+IN: [bit 9, reg R6]
+IN: [bit 22, reg R0]
+OK: # 7000, 0
+IN: [bit 13, reg R8]
+OK: # 8000, 0
+IN: [bit 20, reg R1]
+OK: # 9000, 0
+IN: [bit 30, reg R1]
+IN: [bit 67108890, reg R4]
+OK: # 10000, 0
+IN: [bit 5, reg R11]
+OK: # 11000, 0
+IN: [bit 30, reg R13]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 16, reg R11]
+OK: # 15000, 0
+IN: [bit 18, reg R262146]
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 1, reg R6]
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 26, reg R9]
+IN: [bit 12, reg R12]
+OK: # 21000, 0
+IN: [bit 17, reg R13]
+IN: [bit 16, reg R12]
+OK: # 22000, 0
+OK: # 23000, 0
+OK: # 24000, 0
+OK: # 25000, 0
+OK: # 26000, 0
+IN: [bit 0, reg R0]
+OK: # 27000, 0
+OK: # 28000, 0
+IN: [bit 10, reg R0]
+OK: # 29000, 0
+IN: [bit 23, reg R0]
+OK: # 30000, 0
+OK: # 31000, 0
+IN: [bit 7, reg R14]
+OK: # 32000, 0
+IN: [bit 25, reg R14]
+OK: # 33000, 0
+IN: [bit 9, reg R10]
+OK: # 34000, 0
+IN: [bit 0, reg R13]
+OK: # 35000, 0
+OK: # 36000, 0
+IN: [bit 14, reg R9]
+OK: # 37000, 0
+IN: [bit 26, reg R13]
+OK: # 38000, 0
+IN: [bit 28, reg R15]
+IN: [bit 2, reg R9]
+OK: # 39000, 0
+IN: [bit 2, reg R13]
+IN: [bit 1, reg R14]
+OK: # 40000, 0
+OK: # 41000, 0
+OK: # 42000, 0
+IN: [bit 10, reg R12]
+IN: [bit 31, reg R5]
+OK: # 43000, 0
+IN: [bit 6, reg R8]
+IN: [bit 3, reg R6]
+IN: [bit 26, reg R8]
+OK: # 44000, 0
+IN: [bit 3, reg R10]
+IN: [bit 12, reg R5]
+OK: # 45000, 0
+IN: [bit 22, reg R14]
+OK: # 46000, 0
+OK: # 47000, 0
+OK: # 48000, 0
+OK: # 49000, 0
+OK: # 50000, 0
+IN: [bit 4, reg R10]
+DE: [i: 50911]   E: {11_8: [7ffff828, 0],11_9: [1, 0],11_10: [8002ab5, 0],11_11: [8000c79, 0],}
+IN: [bit 15, reg R12]
+OK: # 51000, 4
+IN: [bit 12, reg R15]
+OK: # 52000, 4
+IN: [bit 17, reg R11]
+OK: # 53000, 4
+IN: [bit 25, reg R9]
+OK: # 54000, 4
+OK: # 55000, 4
+IN: [bit 9, reg R15]
+IN: [bit 28, reg R13]
+IN: [bit 2, reg R11]
+OK: # 5
+6000, 4
+IN: [bit 18, reg R3]
+IN: [bit 8, reg R258]
+OK: # 57000, 4
+IN: [bit 2, reg R11]
+OK: # 58000, 4
+IN: [bit 11, reg R1]
+IN: [bit 9, reg R15]
+OK: # 59000, 4
+OK: # 60000, 4
+IN: [bit 0, reg R12]
+OK: # 61000, 4
+IN: [bit 4108, reg R4]
+OK: # 62000, 4
+OK: # 63000, 4
+IN: [bit 15, reg R0]
+OK: # 64000, 4
+OK: # 65000, 4
+IN: [bit 23, reg R13]
+OK: # 66000, 4
+OK: # 67000, 4
+IN: [bit 28, reg R1]
+OK: # 68000, 4
+OK: # 69000, 4
+IN: [bit 7, reg R12]
+IN: [bit 6, reg R14]
+OK: # 70000, 4
+OK: # 71000, 4
+OK: # 72000, 4
+IN: [bit 23, reg R8388610]
+OK: # 73000, 4
+OK: # 74000, 4
+IN: [bit 16, reg R13]
+OK: # 75000, 4
+OK: # 76000, 4
+IN: [bit 18, reg R9]
+OK: # 77000, 4
+IN: [bit 27, reg R14]
+IN: [bit 22, reg R5]
+OK: # 78000, 4
+OK: # 79000, 4
+OK: # 80000, 4
+IN: [bit 18, reg R11]
+OK: # 81000, 4
+OK: # 82000, 4
+OK: # 83000, 4
+IN: [bit 13, reg R10]
+DE: [i: 83733]   E: {1_9: [8811f383, 0],1_10: [8f6ff3bf, 0],1_11: [8f4ff3bf, 0],2_0: [f000b662, 0],2_1: [b128f81f, 0],2_2: [23e0f04f, 0],2_3: [5280f04f, 0],2_4: [2d04f8c3, 0],2_5: [f3832300, 0],2_6: [bd088811, 0],2_7: [681b4b07, 0],2_8: [b923681b, 0],2_9: [f04f4b06, 0],2_10: [601a32ff, 0],2_11: [4b034770, 0],3_0: [68db681b, 0],3_1: [4b02681a, 0],3_2: [4770601a, 0],3_3: [24000168, 0],3_4: [2400014c, 0],3_5: [681b4b53, 0],3_6: [f0402b00, 0],3_7: [b570809b, 0],3_8: [681c4b51, 0],3_9: [601c3401, 0],3_10: [4b50b9d4, 0],3_11: [681b681b, 0],4_0: [f04fb153, 0],4_1: [b6720350, 0],4_2: [8811f383, 0],4_3: [8f6ff3bf, 0],4_4: [8f4ff3bf, 0],4_5: [e7feb662, 0],4_6: [68114a48, 0],4_7: [68184b48, 0],4_8: [60196010, 0],4_9: [68134a47, 0],4_10: [60133301, 0],4_11: [ffc6f7ff, 0],5_0: [681b4b45, 0],5_1: [d91042a3, 0],5_2: [4b442000, 0],5_3: [6adb681b, 0],5_4: [383eb03, 0],5_5: [4b42009a, 0],5_6: [2b01589b, 0],5_7: [2001d900, 0],5_8: [681b4b40, 0],5_9: [d16b2b00, 0],5_10: [2000bd70, 0],5_11: [4b3ae037, 0],6_0: [32fff04f, 0],6_1: [e7e8601a, 0],6_2: [601a4b37, 0],6_3: [68d9e7e5, 0],6_4: [e0426051, 0],6_5: [62992100, 0],6_6: [39016811, 0],6_7: [6ada6011, 0],6_8: [68094935, 0],6_9: [d901428a, 0],6_10: [600a4933, 0],6_11: [eb024930, 0],7_0: [ea4f0282, 0],7_1: [448c0c82, 0],7_2: [2004f8dc, 0],7_3: [6896609a, 0],7_4: [607560de, 0],7_5: [6ada6095, 0],7_6: [c82eb02, 0],7_7: [58cea4f, 0],7_8: [615e186e, 0],7_9: [3501594d, 0],7_10: [c8cea4f, 0],7_11: [500cf841, 0],8_0: [4b226ada, 0],8_1: [6adb681b, 0],8_2: [d900429a, 0],8_3: [4b1b2001, 0],8_4: [681b681b, 0],8_5: [d0c22b00, 0],8_6: [681b4b18, 0],8_7: [68db68db, 0],8_8: [4294685a, 0],8_9: [695ad3c0, 0],8_10: [68d9689d, 0],8_11: [689d60a9, 0],9_0: [6851604d, 0],9_1: [42a91d1d, 0],9_2: [2100d0b9, 0],9_3: [68116159, 0],9_4: [60113901, 0],9_5: [2a006a9a, 0],9_6: [69ded0b9, 0],9_7: [60b16a19, 0],9_8: [604e69de, 0],9_9: [f1036856, 0],9_10: [428e0118, 0],9_11: [6a19d1aa, 0],10_0: [e7a76051, 0],10_1: [68134a0d, 0],10_2: [60133301, 0],10_3: [47702000, 0],10_4: [e7912001, 0],10_5: [24000148, 0],10_6: [24000160, 0],10_7: [24000168, 0],10_8: [24000164, 0],10_9: [24000150, 0],10_10: [2400014c, 0],10_11: [240005cc, 0],11_0: [2400016c, 0],11_1: [24000154, 0],11_2: [2400015c, 0],11_3: [24000158, 0],11_4: [4b2eb508, 0],11_5: [b11b681b, 0],11_6: [2
+2014b2d, 0],11_7: [bd08601a, 0],11_8: [22004b2b, 0],11_9: [4b2b601a, 0],11_10: [6b1b681b, 0],11_11: [f1b2681a, 0],}
+OK: # 84000, 127
+IN: [bit 4, reg R6]
+OK: # 85000, 127
+IN: [bit 6, reg R12]
+OK: # 86000, 127
+OK: # 87000, 127
+IN: [bit 15, reg R7]
+OK: # 88000, 127
+IN: [bit 26, reg R3]
+OK: # 89000, 127
+IN: [bit 17, reg R10]
+IN: [bit 17, reg R5]
+OK: # 90000, 127
+IN: [bit 27, reg R8]
+OK: # 91000, 127
+IN: [bit 9, reg R6]
+OK: # 92000, 127
+IN: [bit 13, reg R11]
+OK: # 93000, 127
+IN: [bit 17, reg R5]
+OK: # 94000, 127
+IN: [bit 28, reg R12]
+IN: [bit 4, reg R1]
+IN: [bit 14, reg R15]
+OK: # 95000, 127
+IN: [bit 19, reg R5]
+IN: [bit 27, reg R11]
+IN: [bit 17, reg R6]
+OK: # 96000, 127
+OK: # 97000, 127
+OK: # 98000, 127
+IN: [bit 17, reg R9]
+IN: [bit 521, reg R4]
+OK: # 99000, 127
+IN: [bit 14, reg R1]
+OK: # 100000, 127
+OK: # 101000, 127
+OK: # 102000, 127
+OK: # 103000, 127
+IN: [bit 29, reg R1]
+OK: # 104000, 127
+IN: [bit 2, reg R13]
+OK: # 105000, 127
+IN: [bit 12, reg R9]
+IN: [bit 0, reg R15]
+OK: # 106000, 127
+OK: # 107000, 127
+IN: [bit 17, reg R15]
+OK: # 108000, 127
+OK: # 109000, 127
+OK: # 110000, 127
+IN: [bit 37, reg R4]
+IN: [bit 2, reg R13]
+IN: [bit 17, reg R8]
+OK: # 111000, 127
+OK: # 112000, 127
+IN: [bit 524307, reg R4]
+OK: # 113000, 127
+OK: # 114000, 127
+IN: [bit 13, reg R14]
+IN: [bit 24, reg R14]
+OK: # 115000, 127
+OK: # 116000, 127
+IN: [bit 1, reg R13]
+OK: # 117000, 127
+OK: # 118000, 127
+OK: # 119000, 127
+OK: # 120000, 127
+IN: [bit 13, reg R5]
+IN: [bit 28, reg R13]
+OK: # 121000, 127
+IN: [bit 20, reg R1048578]
+IN: [bit 5, reg R34]
+IN: [bit 4, reg R14]
+OK: # 122000, 127
+OK: # 123000, 127
+IN: [bit 3, reg R11]
+OK: # 124000, 127
+IN: [bit 30, reg R1073741826]
+IN: [bit 16, reg R15]
+IN: [bit 3, reg R8]
+OK: # 125000, 127
+IN: [bit 30, reg R12]
+IN: [bit 14, reg R15]
+OK: # 126000, 127
+OK: # 127000, 127
+OK: # 128000, 127
+OK: # 129000, 127
+OK: # 130000, 127
+IN: [bit 31, reg R-2147483646]
+IN: [bit 0, reg R13]
+IN: [bit 2, reg R6]
+IN: [bit 24, reg R14]
+OK: # 131000, 127
+OK: # 132000, 127
+OK: # 133000, 127
+IN: [bit 22, reg R1]
+OK: # 134000, 127
+IN: [bit 28, reg R15]
+OK: # 135000, 127
+IN: [bit 22, reg R15]
+OK: # 136000, 127
+IN: [bit 22, reg R5]
+IN: [bit 9, reg R12]
+OK: # 137000, 127
+IN: [bit 29, reg R9]
+OK: # 138000, 127
+OK: # 139000, 127
+OK: # 140000, 127
+OK: # 141000, 127
+IN: [bit 19, reg R524290]
+OK: # 142000, 127
+OK: # 143000, 1
+27
+IN: [bit 2, reg R10]
+OK: # 144000, 127
+IN: [bit 19, reg R0]
+IN: [bit 7, reg R13]
+OK: # 145000, 127
+IN: [bit 11, reg R5]
+IN: [bit 31, reg R14]
+IN: [bit 8388631, reg R4]
+OK: # 146000, 127
+IN: [bit 14, reg R15]
+OK: # 147000, 127
+OK: # 148000, 127
+OK: # 149000, 127
+OK: # 150000, 127
+IN: [bit 26, reg R5]
+OK: # 151000, 127
+IN: [bit 7, reg R3]
+OK: # 152000, 127
+IN: [bit 3, reg R7]
+OK: # 153000, 127
+OK: # 154000, 127
+OK: # 155000, 127
+OK: # 156000, 127
+IN: [bit 27, reg R14]
+OK: # 157000, 127
+IN: [bit 18, reg R12]
+OK: # 158000, 127
+OK: # 159000, 127
+IN: [bit 3, reg R3]
+IN: [bit 3, reg R0]
+IN: [bit 5, reg R9]
+OK: # 160000, 127
+IN: [bit 28, reg R9]
+IN: [bit 31, reg R11]
+IN: [bit 28, reg R3]
+OK: # 161000, 127
+OK: # 162000, 127
+IN: [bit 20, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 4, reg R7]
+OK: # 1000, 0
+IN: [bit 11, reg R9]
+IN: [bit 16398, reg R4]
+OK: # 2000, 0
+IN: [bit 9, reg R15]
+IN: [bit 7, reg R10]
+IN: [bit 21, reg R7]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 14, reg R7]
+OK: # 6000, 0
+IN: [bit 5, reg R10]
+OK: # 7000, 0
+IN: [bit 23, reg R7]
+OK: # 8000, 0
+IN: [bit 3, reg R15]
+IN: [bit 1, reg R7]
+OK: # 9000, 0
+OK: # 10000, 0
+IN: [bit 23, reg R8388610]
+IN: [bit 27, reg R12]
+OK: # 11000, 0
+OK: # 12000, 0
+OK: # 13000, 0
+IN: [bit 4, reg R6]
+OK: # 14000, 0
+IN: [bit 10, reg R14]
+IN: [bit 5, reg R1]
+OK: # 15000, 0
+OK: # 16000, 0
+IN: [bit 0, reg R3]
+OK: # 17000, 0
+IN: [b
+it 19, reg R524290]
+OK: # 18000, 0
+IN: [bit 22, reg R4194306]
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 23, reg R7]
+OK: # 21000,
+0
+IN: [bit 21, reg R14]
+IN: [bit 28, reg R0]
+OK: # 22000, 0
+IN: [bit 29, reg R14]
+OK: # 23000, 0
+IN: [bit 12, reg R4098]
+OK: # 24000, 0
+OK: # 25000, 0
+OK: # 26000, 0
+IN: [bit 65552, reg R4]
+OK: # 27000, 0
+IN: [bit 10, reg R3]
+IN: [bit 26, reg R5]
+OK: # 28000, 0
+OK: # 29000, 0
+OK: # 30000, 0
+IN: [bit 31, reg R8]
+OK: # 31000, 0
+OK: # 32000, 0
+IN: [bit
+3, reg R15]
+OK: # 33000, 0
+IN: [bit 30, reg R0]
+OK: # 34000, 0
+OK: # 35000, 0
+OK: # 36000, 0
+IN: [bit 14, reg R0]
+OK: # 37000, 0
+IN: [bit 10, reg R9]
+IN: [bit 23, reg R1]
+OK: # 38000, 0
+IN: [bit 12, reg R9]
+OK: # 39000, 0
+OK: # 40000, 0
+IN: [bit 10, reg R11]
+OK: # 41000, 0
+OK: # 42000, 0
+IN: [bit 13, reg R7]
+OK: # 43000, 0
+IN: [bit 9, reg R514]
+IN: [bit 10, reg R15]
+OK: # 44000, 0
+IN: [bit 16, reg R0]
+OK: # 45000, 0
+OK: # 46000, 0
+OK: # 47000, 0
+IN: [bit 22, reg R10]
+OK: # 48000, 0
+IN: [bit 0, reg R10]
+IN: [bit 7, reg R5]
+IN: [bit 1, reg R10]
+OK: # 49000, 0
+OK: # 50000, 0
+OK: # 51000, 0
+OK: # 52000, 0
+OK: # 53000, 0
+IN: [bit 26, reg R6]
+OK: # 54000, 0
+OK: # 55000, 0
+OK: # 56000, 0
+IN: [bit 1, reg R14]
+IN: [bit 16, reg R13]
+OK: # 57000, 0
+IN: [bit 30, reg R5]
+OK: # 58000, 0
+IN: [bit 131089, reg R4]
+OK: # 59000, 0
+IN: [bit 23, reg R7]
+IN: [bit 25, reg R3]
+IN: [bit 1048596, reg R4]
+OK: # 60000, 0
+OK: # 61000, 0
+OK: # 62000, 0
+IN: [bit 28, reg R11]
+OK: # 63000, 0
+OK: # 64000, 0
+OK: # 65000, 0
+OK: # 66000, 0
+IN: [bit 2, reg R7]
+OK: # 67000, 0
+IN: [bit 1034, reg R4]
+OK: # 68000, 0
+IN: [bit 14, reg R14]
+IN: [bit 2, reg R5]
+OK: # 69000, 0
+OK: # 70000, 0
+OK: # 71000, 0
+IN: [bit 23, reg R11]
+OK: # 72000, 0
+IN: [bit 17, reg R10]
+IN: [bit 30, reg R1]
+OK: # 73000, 0
+IN: [bit 26, reg R12]
+IN: [bit 1, reg R0]
+OK: # 74000, 0
+IN: [bit 15, reg R13]
+OK: # 75000, 0
+OK: # 76000, 0
+IN: [bit 22, reg R13]
+OK: # 77000, 0
+IN: [bit 20, reg R12]
+OK: # 78000, 0
+IN: [bit 2, reg R11]
+OK: # 79000, 0
+OK: # 80000, 0
+OK: # 81000, 0
+IN: [bit 2059, reg R4]
+IN: [bit 15, reg R10]
+OK: # 82000, 0
+IN: [bit 25, reg R5]
+IN: [bit 12, reg R9]
+OK: # 83000, 0
+IN: [bit 17, reg R7]
+IN: [bit 31, reg R13]
+IN: [bit 19, reg R11]
+IN: [bit 6, reg R6]
+OK: # 84000, 0
+IN: [bit 22, reg R9]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 18, reg R13]
+IN: [bit 6, reg R66]
+OK: # 2000, 0
+IN: [bit 29, reg R11]
+OK: # 3000, 0
+IN: [bit 5, reg R9]
+OK: # 4000, 0
+IN: [bit 13, reg R5]
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 11, reg R1]
+OK: # 10000, 0
+IN: [bit 14, reg R3]
+OK: # 11000, 0
+OK: # 12000, 0
+OK: # 13000, 0
+IN: [bit 25, reg R33554434]
+IN: [bit 19, reg R524290]
+IN: [bit 31, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 25, reg R14]
+OK: # 1000, 0
+IN: [bit 20, reg R1048578]
+IN: [bit 31, reg R10]
+IN: [bit 27, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 28, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 2, reg R6]
+IN: [bit 8, reg R1]
+OK: # 1000, 0
+IN: [bit 27, reg R11]
+OK: # 2000, 0
+IN: [bit 17, reg R13]
+OK: # 3000, 0
+IN: [bit 6, reg R8]
+OK: # 4000, 0
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+IN: [bit 11, reg R10]
+OK: # 8000, 0
+OK: # 9000, 0
+IN: [bit 27, reg R15]
+OK: # 10000, 0
+OK: # 11000, 0
+IN: [bit 268435484, reg R4]
+OK: # 12000, 0
+IN: [bit 19, reg R15]
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+IN: [bit 15, reg R32770]
+IN: [bit 3, reg R15]
+OK: # 16000, 0
+OK: # 17000, 0
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 28, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 16, reg R1]
+OK: # 1000, 0
+OK: # 2000, 0
+IN: [bit 19, reg R13]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 0, reg R5]
+IN: [bit 12, reg R5]
+OK: # 6000, 0
+IN: [bit 6, reg R8]
+OK: # 7000, 0
+IN: [bit 9, reg R3]
+OK: # 8000, 0
+IN: [bit -2147483617, reg R4]
+IN: [bit 3, reg R10]
+OK: # 9000, 0
+OK: # 10000, 0
+OK: # 11000, 0
+IN: [bit 0, reg R6]
+OK: # 12000, 0
+OK: # 13000, 0
+OK: # 14000, 0
+OK: # 15000, 0
+OK: # 16000, 0
+IN: [bit 1, reg R0]
+OK: # 17000, 0
+OK: # 18000, 0
+OK: # 19000, 0
+IN: [bit 9, reg R514]
+OK: # 20000, 0
+OK: # 21000, 0
+IN: [bit 30, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+IN: [bit 11, reg R3]
+IN: [bit 25, reg R9]
+OK: # 1000, 0
+OK: # 2000, 0
+IN: [bit 3, reg R1]
+OK: # 3000, 0
+OK: # 4000, 0
+OK: # 5000, 0
+IN: [bit 27, reg R11]
+IN: [bit 29, reg R11]
+OK: # 6000, 0
+IN: [bit 22, reg R11]
+OK: # 7000, 0
+IN: [bit 28, reg R9]
+IN: [bit 8205, reg R4]
+OK: # 8000, 0
+IN: [bit 10, reg R1026]
+OK: # 9000, 0
+IN: [bit 29, reg R5]
+OK: # 10000, 0
+IN: [bit 33554457, reg R4]
+OK: # 11000, 0
+IN: [bit 25, reg R14]
+OK: # 12000, 0
+IN: [bit 10, reg R12]
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 14, reg R12]
+OK: # 15000, 0
+OK: # 16000, 0
+OK: # 17000, 0
+IN: [bit 18, reg R262146]
+OK: # 18000, 0
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 11, reg R2050]
+OK: # 21000, 0
+OK: # 22000, 0
+IN: [bit 6, reg R4]
+IN: [bit 4, reg R11]
+OK: # 23000, 0
+OK: # 24000, 0
+OK: # 25000, 0
+OK: # 26000, 0
+IN: [bit 6, reg R14]
+OK: # 27000, 0
+IN: [bit 16, reg R9]
+IN: [bit 26, reg R0]
+OK: # 28000, 0
+IN: [bit 30, reg R12]
+OK: # 29000, 0
+IN: [bit 16, reg R1]
+OK: # 30000, 0
+OK: # 31000, 0
+OK: # 32000, 0
+IN: [bit 5, reg R34]
+IN: [bit 18, reg R6]
+DE: [i: 32764]   E: {6_4: [ffffffff, 0],}
+OK: # 33000, 1
+IN: [bit 14, reg R1]
+IN: [bit 14, reg R5]
+OK: # 34000, 1
+IN: [bit 6, reg R4]
+IN: [bit 12, reg R12]
+OK: # 35000, 1
+OK: # 36000, 1
+IN: [bit 17, reg R8]
+OK: # 37000, 1
+IN: [bit 2, reg R5]
+IN: [bit 4, reg R10]
+OK: # 38000, 1
+IN: [bit 17, reg R10]
+IN: [bit 8, reg R9]
+OK: # 39000, 1
+OK: # 40000, 1
+IN: [bit 20, reg R1]
+OK: # 41000, 1
+IN: [bit 24, reg R15]
+IN: [bit 24, reg R10]
+IN: [bit 0, reg R9]
+OK: # 42000, 1
+IN: [bit 17, reg R6]
+OK: # 43000, 1
+IN: [bit 22, reg R3]
+OK: # 44000, 1
+OK: # 45000, 1
+OK: # 46000, 1
+IN: [bit 30, reg R10]
+OK: # 47000, 1
+IN: [bit 27, reg R5]
+OK: # 48000, 1
+OK: # 49000, 1
+OK: # 50000, 1
+OK: # 51000, 1
+OK: # 52000, 1
+OK: # 53000, 1
+OK: # 54000, 1
+OK: # 55000, 1
+IN: [bit 4, reg R6]
+OK: # 56000, 1
+OK: # 57000, 1
+OK: # 58000, 1
+IN: [bit 30, reg R14]
+IN: [bit 31, reg R-2147483646]
+IN: [bit 4194326, reg R4]
+OK: # 59000, 1
+IN: [bit 5, reg R8]
+IN: [bit 30, reg R1]
+OK: # 60000, 1
+IN: [bit 14, reg R14]
+IN: [bit 1034, reg R4]
+OK: # 61000, 1
+IN: [bit 28, reg R7]
+OK: # 62000, 1
+IN: [bit 19, reg R1]
+IN: [bit 10, reg R5]
+OK: # 63000, 1
+IN: [bit 20, reg R9]
+OK: # 64000, 1
+OK: # 65000, 1
+OK: # 66000, 1
+IN: [bit 13, reg R8194]
+IN: [bit 21, reg R14]
+OK: # 67000, 1
+OK: # 68000, 1
+OK: # 69000, 1
+OK: # 70000, 1
+OK: # 71000, 1
+IN: [bit 4, reg R13]
+OK: # 72000, 1
+IN: [bit 9, reg R11]
+OK: # 73000, 1
+OK: # 74000, 1
+IN: [bit 2059, reg R4]
+OK: # 75000, 1
+OK: # 76000, 1
+OK: # 77000, 1
+OK: # 78000, 1
+IN: [bit 5, reg R9]
+OK: # 79000, 1
+IN: [bit 26, reg R7]
+OK: # 80000, 1
+IN: [bit 1034, reg R4]
+OK: # 81000, 1
+IN: [bit 8, reg R10]
+OK: # 82000, 1
+OK: #
+83000, 1
+IN: [bit 3, reg R6]
+OK: # 84000, 1
+IN: [bit 31, reg R3]
+IN: [bit 1, reg R0]
+OK: # 85000, 1
+OK: # 86000, 1
+IN: [bit 10, reg R5]
+OK: # 87000, 1
+OK: # 88000, 1
+IN: [bit 0, reg R0]
+OK: # 89000, 1
+IN: [bit 7, reg R12]
+IN: [bit 21, reg R15]
+IN: [bit 18, reg R11]
+IN: [bit 13, reg R12]
+OK: # 90000, 1
+OK: # 91000, 1
+IN: [bit 10, reg R14]
+OK: # 92000, 1
+IN: [bit 25, reg R6]
+WD: Watchdog Reset
+---
+Chip: STM32H743ZIT6U
+Test: Matrix Multiply
+Verbose: 1
+Side matrix size: 12
+OK: # 0, 0
+OK: # 1000, 0
+IN: [bit 18, reg R262146]
+IN: [bit 27, reg R134217730]
+OK: # 2000, 0
+OK: # 3000, 0
+OK: # 4000, 0
+IN: [bit 6, reg R15]
+IN: [bit 27, reg R5]
+OK: # 5000, 0
+OK: # 6000, 0
+OK: # 7000, 0
+OK: # 8000, 0
+IN: [bit 26, reg R8]
+OK: # 9000, 0
+OK: # 10000, 0
+IN: [bit 0, reg R8]
+OK: # 11000, 0
+IN: [bit 7, reg R130]
+OK: # 12000, 0
+IN: [bit 18, reg R12]
+IN: [bit 20, reg R14]
+IN: [bit 20, reg R12]
+OK: # 13000, 0
+OK: # 14000, 0
+IN: [bit 30, reg R10]
+OK: # 15000, 0
+OK: # 16000, 0
+IN: [bit 26, reg R1]
+IN: [bit 14, reg R14]
+IN: [bit 29, reg R9]
+OK: # 17000, 0
+IN: [bit 6, reg R5]
+OK: # 18000, 0
+IN: [bit 15, reg R9]
+OK: # 19000, 0
+OK: # 20000, 0
+IN: [bit 15, reg R32770]
+IN: [bit 25,
+reg R1]
+OK: # 21000, 0
+IN: [bit 19, reg R15]
+OK: # 22000, 0
+IN: [bit 23, reg R11]
+OK: # 23000, 0
+IN: [bit 6, reg R9]
+OK: # 24000, 0
+OK: # 25000, 0
+OK: # 26000, 0
+IN: [bit 24, reg R16777218]
+OK: # 27000, 0
+IN: [bit 28, reg R15]
+OK: # 28000, 0
+IN: [bit 25, reg R5]
+OK: # 29000, 0
+OK: # 30000, 0
+OK: # 31000, 0
+OK: # 32000, 0
+IN: [bit 3, reg R12]
+IN: [bit 1, reg R1]
+OK: # 33000, 0
+OK: # 34000, 0
+IN: [bit 5, reg R3]
+IN: [bit 4, reg R10]
+OK: # 35000, 0
+OK: # 36000, 0
+OK: # 37000, 0
+IN: [bit 26, reg R5]
+IN: [bit 10, reg R10]
+OK: # 38000, 0
+IN: [bit 26, reg R12]
+OK: # 39000, 0
+OK: # 40000, 0
+IN: [bit 21, reg R2097154]
+OK: # 41000, 0
+IN: [bit 14, reg R11]
+OK: # 42000, 0
+OK: # 43000, 0
+OK: # 44000, 0
+OK: # 45000, 0
+IN: [bit 18, reg R8]
+OK: # 46000, 0
+OK: # 47000, 0
+IN: [bit 3, reg R14]
+OK: # 48000, 0
+IN: [bit 2, reg R6]
+IN: [bit 21, reg R15]
+OK: # 49000, 0
+OK: # 50000, 0
+OK: # 51000, 0
+IN: [bit 13, reg R0]
+OK: # 52000, 0
+IN: [bit 264, reg R4]
+OK: # 53000, 0
+IN: [bit 18, reg R14]
+IN: [bit 10, reg R15]
+OK: # 54000, 0
+OK: # 55000, 0
+OK: # 56000, 0
+IN: [bit 5, reg R12]
+OK: # 57000, 0
+OK: # 58000, 0
+OK: # 59000, 0
+IN: [bit 17, reg R10]
+IN: [bit 25, reg R12]
+OK: # 60000, 0
+OK: # 61000, 0
+OK: # 62000, 0
+IN: [bit 1, reg R13]
+OK: # 6300
+0, 0
+IN: [bit 3, reg R8]
+OK: # 64000, 0
+IN: [bit 6, reg R66]
+OK: # 65000, 0
+OK: # 66000, 0
+IN: [bit 21, reg R11]
+IN: [bit 8, reg R0]
+OK: # 67000, 0
+IN: [bit 10, reg R1026]
+IN: [bit 23, reg R15]
+OK: # 68000, 0
+OK: # 69000, 0
+IN: [bit 23, reg R8]
+OK: # 70000, 0
+IN: [bit 15, reg R9]
+IN: [bit 18, reg R1]
+OK: # 71000, 0
+IN: [bit 27, reg R1]
+OK: # 72000, 0
+IN: [bit 131089, reg R4]
+OK: # 73000, 0
+IN: [bit 9, reg R15]
+OK: # 74000, 0
+OK: # 75000, 0
+IN: [bit 29, reg R1]
+OK: # 76000, 0
+IN: [bit 3, reg R3]
+OK: # 77000, 0
+OK: # 78000, 0
+IN: [bit 24, reg R0]
+IN: [bit 7, reg R8]
+OK: # 79000, 0
+OK: # 80000, 0
+OK: # 81000, 0
+OK: # 82000, 0
+OK: # 83000, 0
+IN: [bit 28, reg R10]
+IN: [bit 20, reg R12]
+OK: # 84000, 0
+OK: # 85000, 0
+IN: [bit 29, reg R12]
+OK: # 86000, 0
+OK: # 87000, 0
+OK: # 88000, 0
+OK: # 89000, 0
+IN: [bit 5, reg R5]
+OK: # 90000, 0
+IN: [bit 28, reg R5]
+OK: # 91000, 0
+IN: [bit 16, reg R10]
+DE: [i: 91111]   E: {1_9: [ffffffff, 0],1_10: [ffffffff, 0],1_11: [ffffffff, 0],2_0: [ffffffff, 0],2_1: [ffffffff, 0],2_2: [ffffffff, 0],2_3: [ffffffff, 0],2_4: [ffffffff, 0],2_5: [ffffffff, 0],2_6: [ffffffff, 0],2_7: [ffffffff, 0],2_8: [ffffffff, 0],2_9: [ffffffff, 0],2_10: [ffffffff, 0],2_11: [ffffffff, 0],3_0: [ffffffff, 0],3_1: [ffffffff, 0],3_2: [ffffffff, 0],3_3: [ffffffff, 0],3_4: [ffffffff, 0],3_5: [ffffffff, 0],3_6: [ffffffff, 0],3_7: [ffffffff, 0],3_8: [ffffffff, 0],3_9: [ffffffff, 0],3_10: [ffffffff, 0],3_11: [ffffffff, 0],4_0: [ffffffff, 0],4_1: [ffffffff, 0],4_2: [ffffffff, 0],4_3: [ffffffff, 0],4_4: [ffffffff, 0],4_5: [ffffffff, 0],4_6: [ffffffff, 0],4_7: [ffffffff, 0],4_8: [ffffffff, 0],4_9: [ffffffff, 0],4_10: [ffffffff, 0],4_11: [ffffffff, 0],5_0: [ffffffff, 0],5_1: [ffffffff, 0],5_2: [ffffffff, 0],5_3: [ffffffff, 0],5_4: [ffffffff, 0],5_5: [ffffffff, 0],5_6: [ffffffff, 0],5_7: [ffffffff, 0],5_8: [ffffffff, 0],5_9: [ffffffff, 0],5_10: [ffffffff, 0],5_11: [ffffffff, 0],6_0: [ffffffff, 0],6_1: [ffffffff, 0],6_2: [ffffffff, 0],6_3: [ffffffff, 0],6_4: [ffffffff, 0],6_5: [ffffffff, 0],6_6: [ffffffff, 0],6_7: [ffffffff, 0],6_8: [ffffffff, 0],6_9: [ffffffff, 0],6_10: [ffffffff, 0],6_11: [ffffffff, 0],7_0: [ffffffff, 0],7_1: [ffffffff, 0],7_2: [ffffffff, 0],7_3: [ffffffff, 0],7_4: [ffffffff, 0],7_5: [ffffffff, 0],7_6: [ffffffff, 0],7_7: [ffffffff, 0],7_8: [ffffffff, 0],7_9: [ffffffff, 0],7_10: [ffffffff, 0],7_11: [ffffffff, 0],8_0: [ffffffff, 0],8_1: [ffffffff, 0],8_2: [ffffffff, 0],8_3: [ffffffff, 0],8_4: [ffffffff, 0],8_5: [ffffffff, 0],8_6: [ffffffff, 0],8_7: [ffffffff, 0],8_8: [ffffffff, 0],8_9: [ffffffff, 0],8_10: [ffffffff, 0],8_11: [ffffffff, 0],9_0: [ffffffff, 0],9_1: [ffffffff, 0],9_2: [ffffffff, 0],9_3: [ffffffff, 0],9_4: [ffffffff, 0],9_5: [ffffffff, 0],9_6: [ffffffff, 0],9_7: [ffffffff, 0],9_8: [ffffffff, 0],9_9: [ffffffff, 0],9_10: [ffffffff, 0],9_11: [ffffffff, 0],10_0: [ffffffff, 0],10_1: [ffffffff, 0],10_2: [ffffffff, 0],10_3: [ffffffff, 0],10_4: [ffffffff, 0],10_5: [ffffffff, 0],10_6: [ffffffff, 0],1
+0_7: [ffffffff, 0],10_8: [ffffffff, 0],10_9: [ffffffff, 0],10_10: [ffffffff, 0],10_11: [ffffffff, 0],11_0: [ffffffff, 0],11_1: [ffffffff, 0],11_2: [ffffffff, 0],11_3: [ffffffff, 0],11_4: [ffffffff, 0],11_5: [ffffffff, 0],11_6: [ffffffff, 0],11_7: [ffffffff, 0],11_8: [ffffffff, 0],11_9: [ffffffff, 0],11_10: [ffffffff, 0],11_11: [ffffffff, 0],}
+OK: # 92000, 123
+IN: [bit 20, reg R9]
+IN: [bit 8, reg R10]
+IN: [bit 20, reg R6]
